@@ -1,1 +1,90 @@
-wewq
+<?xml version="1.0" encoding="utf-8"?>
+<layoutype>list</layoutype>
+
+<channels>
+<channel>
+<name>[COLOR white][B] T V [/B][/COLOR]</name>
+<thumbnail>https://imgur.com/P3VGdtG.jpg</thumbnail>
+<fanart>https://imgur.com/P3VGdtG.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menutv.xml</externallink>
+<info>A MELHOR SELECAO DE TVS PAGAS</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR blue][B]D E S E N H O S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/49JrBIK.png</thumbnail>
+<fanart>https://i.imgur.com/49JrBIK.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menudesenhos.xml</externallink>
+<info>OS MELHORES DESENHOS VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR yellow][B]F I L M E S[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/w2aL9gS.png</thumbnail>
+<fanart>https://i.imgur.com/w2aL9gS.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menufilmes.xml</externallink>
+<info>OS MELHORES FILMES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]S E R I E S[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVONRfn7c6gPymtsjl-nZ7InbVmTsjvaVvk8y-l7TxhfKZOKxYQ</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVONRfn7c6gPymtsjl-nZ7InbVmTsjvaVvk8y-l7TxhfKZOKxYQ</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://cld.pt/dl/download/5d6aecff-9445-4d73-bd97-019bc23881a0/Series%20tvchannelhd2.xml</externallink>
+<info>AS MELHORES SERIES VOCE ENCONTRA AQUI</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR red][B]A D U L T O[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYPQZMjpKFQuxCUiqJPRr5F3Zyh644CGjPytrl4F5uBzy8DxB</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBYPQZMjpKFQuxCUiqJPRr5F3Zyh644CGjPytrl4F5uBzy8DxB</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menuadulto</externallink>
+<info>O MELHOR DO CONTEUDO ADULTO</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]PLAYLIST[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/4cx9hSX.jpg</thumbnail>
+<fanart>https://i.imgur.com/89g94HU.jpg</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/Playlistcomedy.txt</externallink>
+<info>A MINHA SELEÇÃO DE PLAYLIST</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR white][B]S T A N D   U P[/B][/COLOR]</name>
+<thumbnail>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</thumbnail>
+<fanart>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/menucomedia.xml</externallink>
+<info>O MELHOR DO STAND UP</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[COLOR lime][B]A T A L H O    A D D O N S[/B][/COLOR]</name>
+<thumbnail>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</thumbnail>
+<fanart>https://orig00.deviantart.net/1858/f/2015/290/0/c/stand_up_comedy__png__by_alexwarn3-d9de5mc.png</fanart>
+<link>http://ignorar.com/</link>
+<externallink>https://raw.githubusercontent.com/bombazorro/filmes/master/atalhoaddons.xml</externallink>
+<info>O MELHOR DO STAND UP</info>
+</channel>
+</channels>
