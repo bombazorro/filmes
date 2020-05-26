@@ -1,1160 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BR: A&E HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9034
-#EXTINF:-1,BR: A&E SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9035
-#EXTINF:-1,BR: AMC HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9036
-#EXTINF:-1,BR: AMC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9037
-#EXTINF:-1,BR: ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9038
-#EXTINF:-1,BR: ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9039
-#EXTINF:-1,BR: ARTE 1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9040
-#EXTINF:-1,BR: ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9041
-#EXTINF:-1,BR: AXN HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9042
-#EXTINF:-1,BR: AXN SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9043
-#EXTINF:-1,BR: BABY TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9044
-#EXTINF:-1,BR: BABY TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9045
-#EXTINF:-1,BR: BAND CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9046
-#EXTINF:-1,BR: BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9047
-#EXTINF:-1,BR: BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9048
-#EXTINF:-1,BR: BAND NORDESTE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9049
-#EXTINF:-1,BR: BAND SP HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9050
-#EXTINF:-1,BR: BAND SP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9051
-#EXTINF:-1,BR: BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9052
-#EXTINF:-1,BR: BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9053
-#EXTINF:-1,BR: BBB 20
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9054
-#EXTINF:-1,BR: BBB 20 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9055
-#EXTINF:-1,BR: BBB 20 Mosaico
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9056
-#EXTINF:-1,BR: BBB 2020 FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9057
-#EXTINF:-1,BR: BIS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9058
-#EXTINF:-1,BR: BIS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9059
-#EXTINF:-1,BR: BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9060
-#EXTINF:-1,BR: BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9061
-#EXTINF:-1,BR: CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9062
-#EXTINF:-1,BR: CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9063
-#EXTINF:-1,BR: CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9064
-#EXTINF:-1,BR: CINEMAX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9065
-#EXTINF:-1,BR: CINEMAX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9066
-#EXTINF:-1,BR: COMBATE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9067
-#EXTINF:-1,BR: COMBATE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9068
-#EXTINF:-1,BR: COMEDY CENTRAL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9069
-#EXTINF:-1,BR: COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9070
-#EXTINF:-1,BR: Copa Libertadores HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9071
-#EXTINF:-1,BR: CULTURA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9072
-#EXTINF:-1,BR: CULTURA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9073
-#EXTINF:-1,BR: CURTA! HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9074
-#EXTINF:-1,BR: CURTA! SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9075
-#EXTINF:-1,BR: DAZN 1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9076
-#EXTINF:-1,BR: DAZN 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9077
-#EXTINF:-1,BR: DAZN 3 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9078
-#EXTINF:-1,BR: DAZN BRASIL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9079
-#EXTINF:-1,BR: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9080
-#EXTINF:-1,BR: DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9081
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9082
-#EXTINF:-1,BR: DISCOVERY CIVILIZATION SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9083
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9084
-#EXTINF:-1,BR: DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9085
-#EXTINF:-1,BR: DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9086
-#EXTINF:-1,BR: DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9087
-#EXTINF:-1,BR: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9088
-#EXTINF:-1,BR: DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9089
-#EXTINF:-1,BR: DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9090
-#EXTINF:-1,BR: DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9091
-#EXTINF:-1,BR: DISCOVERY TLC HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9092
-#EXTINF:-1,BR: DISCOVERY TLC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9093
-#EXTINF:-1,BR: DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9094
-#EXTINF:-1,BR: DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9095
-#EXTINF:-1,BR: DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9096
-#EXTINF:-1,BR: DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9097
-#EXTINF:-1,BR: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9098
-#EXTINF:-1,BR: DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9099
-#EXTINF:-1,BR: DISNEY JR HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9100
-#EXTINF:-1,BR: DISNEY JR SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9101
-#EXTINF:-1,BR: DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9102
-#EXTINF:-1,BR: DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9103
-#EXTINF:-1,BR: E! HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9104
-#EXTINF:-1,BR: E! SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9105
-#EXTINF:-1,BR: EI PLUS
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9106
-#EXTINF:-1,BR: ESPN  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9107
-#EXTINF:-1,BR: ESPN  SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9108
-#EXTINF:-1,BR: ESPN 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9109
-#EXTINF:-1,BR: ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9110
-#EXTINF:-1,BR: ESPN BRASIL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9111
-#EXTINF:-1,BR: ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9112
-#EXTINF:-1,BR: FISH TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9113
-#EXTINF:-1,BR: FISH TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9114
-#EXTINF:-1,BR: FOOD NETWORK HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9115
-#EXTINF:-1,BR: FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9116
-#EXTINF:-1,BR: FOX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9117
-#EXTINF:-1,BR: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9118
-#EXTINF:-1,BR: FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9119
-#EXTINF:-1,BR: FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9120
-#EXTINF:-1,BR: FOX PREMIUM 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9121
-#EXTINF:-1,BR: FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9122
-#EXTINF:-1,BR: FOX PREMIUM 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9123
-#EXTINF:-1,BR: FOX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9124
-#EXTINF:-1,BR: FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9125
-#EXTINF:-1,BR: FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9126
-#EXTINF:-1,BR: FOX SPORTS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9127
-#EXTINF:-1,BR: FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9128
-#EXTINF:-1,BR: FUTURA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9129
-#EXTINF:-1,BR: FUTURA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9130
-#EXTINF:-1,BR: FX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9131
-#EXTINF:-1,BR: FX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9132
-#EXTINF:-1,BR: GLOBO AMAZONAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9133
-#EXTINF:-1,BR: GLOBO ANHANGUERA GOIANIA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9134
-#EXTINF:-1,BR: GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9135
-#EXTINF:-1,BR: GLOBO CUIABA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9136
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9137
-#EXTINF:-1,BR: GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9138
-#EXTINF:-1,BR: GLOBO INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9139
-#EXTINF:-1,BR: GLOBO MINAS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9140
-#EXTINF:-1,BR: GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9141
-#EXTINF:-1,BR: GLOBO NEWS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9142
-#EXTINF:-1,BR: GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9143
-#EXTINF:-1,BR: GLOBO NORDESTE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9144
-#EXTINF:-1,BR: GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9145
-#EXTINF:-1,BR: GLOBO RBS PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9146
-#EXTINF:-1,BR: GLOBO RIBEIR
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9147
-#EXTINF:-1,BR: GLOBO RIO GRANDE DO NORTE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9148
-#EXTINF:-1,BR: GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9149
-#EXTINF:-1,BR: GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9150
-#EXTINF:-1,BR: GLOBO RPC TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9151
-#EXTINF:-1,BR: GLOBO RPC TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9152
-#EXTINF:-1,BR: GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9153
-#EXTINF:-1,BR: GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9154
-#EXTINF:-1,BR: GLOBO TV BAHIA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9155
-#EXTINF:-1,BR: GLOBO TV BELEM SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9156
-#EXTINF:-1,BR: GLOBO TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9157
-#EXTINF:-1,BR: GLOBO TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9158
-#EXTINF:-1,BR: GLOBO TV VANGUARDA S.J DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9159
-#EXTINF:-1,BR: GLOBO TV VERDES MARES FORTALEZA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9160
-#EXTINF:-1,BR: GLOBOSAT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9161
-#EXTINF:-1,BR: GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9162
-#EXTINF:-1,BR: GLOOB HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9163
-#EXTINF:-1,BR: GLOOB SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9164
-#EXTINF:-1,BR: GNT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9165
-#EXTINF:-1,BR: GNT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9166
-#EXTINF:-1,BR: H2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9167
-#EXTINF:-1,BR: H2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9168
-#EXTINF:-1,BR: HBO 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9169
-#EXTINF:-1,BR: HBO 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9170
-#EXTINF:-1,BR: HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9171
-#EXTINF:-1,BR: HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9172
-#EXTINF:-1,BR: HBO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9173
-#EXTINF:-1,BR: HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9174
-#EXTINF:-1,BR: HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9175
-#EXTINF:-1,BR: HBO PLUS*E HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9176
-#EXTINF:-1,BR: HBO PLUS*E SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9177
-#EXTINF:-1,BR: HBO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9178
-#EXTINF:-1,BR: HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9179
-#EXTINF:-1,BR: HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9180
-#EXTINF:-1,BR: HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9181
-#EXTINF:-1,BR: HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9182
-#EXTINF:-1,BR: ID - INVESTIGA
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9183
-#EXTINF:-1,BR: ID - INVESTIGA
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9184
-#EXTINF:-1,BR: LIFETIME HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9185
-#EXTINF:-1,BR: LIFETIME SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9186
-#EXTINF:-1,BR: MAX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9187
-#EXTINF:-1,BR: MAX PRIME HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9188
-#EXTINF:-1,BR: MAX PRIME SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9189
-#EXTINF:-1,BR: MAX PRIME*E HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9190
-#EXTINF:-1,BR: MAX PRIME*E SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9191
-#EXTINF:-1,BR: MAX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9192
-#EXTINF:-1,BR: MAX UP HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9193
-#EXTINF:-1,BR: MAX UP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9194
-#EXTINF:-1,BR: MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9195
-#EXTINF:-1,BR: MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9196
-#EXTINF:-1,BR: MTV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9197
-#EXTINF:-1,BR: MTV LIVE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9198
-#EXTINF:-1,BR: MTV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9199
-#EXTINF:-1,BR: MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9200
-#EXTINF:-1,BR: MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9201
-#EXTINF:-1,BR: MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9202
-#EXTINF:-1,BR: NATGEO KIDS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9203
-#EXTINF:-1,BR: NATGEO KIDS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9204
-#EXTINF:-1,BR: NATGEO WILD HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9205
-#EXTINF:-1,BR: NATGEO WILD SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9206
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9207
-#EXTINF:-1,BR: NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9208
-#EXTINF:-1,BR: NICK JR HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9209
-#EXTINF:-1,BR: NICK JR SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9210
-#EXTINF:-1,BR: NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9211
-#EXTINF:-1,BR: NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9212
-#EXTINF:-1,BR: NOVO TEMPO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9213
-#EXTINF:-1,BR: OFF HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9214
-#EXTINF:-1,BR: OFF SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9215
-#EXTINF:-1,BR: PARAMOUNT CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9216
-#EXTINF:-1,BR: PARAMOUNT CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9217
-#EXTINF:-1,BR: PLAYBOY TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9218
-#EXTINF:-1,BR: PREMIERE 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9219
-#EXTINF:-1,BR: PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9220
-#EXTINF:-1,BR: PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9221
-#EXTINF:-1,BR: PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9222
-#EXTINF:-1,BR: PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9223
-#EXTINF:-1,BR: PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9224
-#EXTINF:-1,BR: PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9225
-#EXTINF:-1,BR: PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9226
-#EXTINF:-1,BR: PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9227
-#EXTINF:-1,BR: PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9228
-#EXTINF:-1,BR: PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9229
-#EXTINF:-1,BR: PREMIERE 8 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9230
-#EXTINF:-1,BR: PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9231
-#EXTINF:-1,BR: PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9232
-#EXTINF:-1,BR: RECORD AMAZONAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9233
-#EXTINF:-1,BR: RECORD CAMPINAS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9234
-#EXTINF:-1,BR: RECORD CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9235
-#EXTINF:-1,BR: RECORD DF SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9236
-#EXTINF:-1,BR: RECORD ESP. SANTO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9237
-#EXTINF:-1,BR: RECORD MG SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9238
-#EXTINF:-1,BR: RECORD NEWS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9239
-#EXTINF:-1,BR: RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9240
-#EXTINF:-1,BR: RECORD NORDESTE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9241
-#EXTINF:-1,BR: Record RJ
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9242
-#EXTINF:-1,BR: RECORD SP HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9243
-#EXTINF:-1,BR: RECORD SP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9244
-#EXTINF:-1,BR: REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9245
-#EXTINF:-1,BR: REDE TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9246
-#EXTINF:-1,BR: REDE TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9247
-#EXTINF:-1,BR: REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9248
-#EXTINF:-1,BR: REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9249
-#EXTINF:-1,BR: SBT GOIAS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9250
-#EXTINF:-1,BR: SBT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9251
-#EXTINF:-1,BR: SBT NORDESTE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9252
-#EXTINF:-1,BR: Sbt RJ HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9253
-#EXTINF:-1,BR: Sbt RJ SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9254
-#EXTINF:-1,BR: SBT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9255
-#EXTINF:-1,BR: SEXTREME SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9256
-#EXTINF:-1,BR: SEXY HOT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9257
-#EXTINF:-1,BR: SONY HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9258
-#EXTINF:-1,BR: SONY SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9259
-#EXTINF:-1,BR: SPACE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9260
-#EXTINF:-1,BR: SPACE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9261
-#EXTINF:-1,BR: SPORTV 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9262
-#EXTINF:-1,BR: SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9263
-#EXTINF:-1,BR: SPORTV 3 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9264
-#EXTINF:-1,BR: SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9265
-#EXTINF:-1,BR: SPORTV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9266
-#EXTINF:-1,BR: SPORTV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9267
-#EXTINF:-1,BR: STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9268
-#EXTINF:-1,BR: STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9269
-#EXTINF:-1,BR: SYFY HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9270
-#EXTINF:-1,BR: SYFY SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9271
-#EXTINF:-1,BR: TBS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9272
-#EXTINF:-1,BR: TCM SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9273
-#EXTINF:-1,BR: TELECINE ACTION HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9274
-#EXTINF:-1,BR: TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9275
-#EXTINF:-1,BR: TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9276
-#EXTINF:-1,BR: TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9277
-#EXTINF:-1,BR: TELECINE FUN HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9278
-#EXTINF:-1,BR: TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9279
-#EXTINF:-1,BR: TELECINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9280
-#EXTINF:-1,BR: TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9281
-#EXTINF:-1,BR: TELECINE PREMIUM HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9282
-#EXTINF:-1,BR: TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9283
-#EXTINF:-1,BR: TELECINE TOUCH HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9284
-#EXTINF:-1,BR: TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9285
-#EXTINF:-1,BR: TNT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9286
-#EXTINF:-1,BR: TNT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9287
-#EXTINF:-1,BR: TNT SERIES SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9288
-#EXTINF:-1,BR: TNT S
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9289
-#EXTINF:-1,BR: TOONCAST HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9290
-#EXTINF:-1,BR: TOONCAST SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9291
-#EXTINF:-1,BR: TV GAZETA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9292
-#EXTINF:-1,BR: UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9293
-#EXTINF:-1,BR: UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9294
-#EXTINF:-1,BR: VENUS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9295
-#EXTINF:-1,BR: VH1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9296
-#EXTINF:-1,BR: VH1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9297
-#EXTINF:-1,BR: VIVA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9298
-#EXTINF:-1,BR: VIVA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9299
-#EXTINF:-1,BR: WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9300
-#EXTINF:-1,BR: WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9301
-#EXTINF:-1,BR: WOOHOO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9302
-#EXTINF:-1,BR: WOOHOO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9303
-#EXTINF:-1,BR: ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9304
-#EXTINF:-1,BR: ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9305
-#EXTINF:-1,BR:ANIMAL PLANET FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9306
-#EXTINF:-1,BR:AXN  FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9307
-#EXTINF:-1,BR:BAND  FULL HD RP
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9308
-#EXTINF:-1,BR:Band RJ HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9309
-#EXTINF:-1,BR:Band RJ SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9310
-#EXTINF:-1,BR:BBB 5
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9311
-#EXTINF:-1,BR:BBB 6
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9312
-#EXTINF:-1,BR:BBB 7
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9313
-#EXTINF:-1,BR:BBB 8
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9314
-#EXTINF:-1,BR:Cartoon Network FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9315
-#EXTINF:-1,BR:Cinemax FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9316
-#EXTINF:-1,BR:CNN Brasil HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9317
-#EXTINF:-1,BR:CNN Brasil SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9318
-#EXTINF:-1,BR:Combate FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9319
-#EXTINF:-1,BR:Copa do Nordeste HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9320
-#EXTINF:-1,BR:CULTURA FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9321
-#EXTINF:-1,BR:DISCORVERY  TURBO FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9322
-#EXTINF:-1,BR:DISCORVERY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9323
-#EXTINF:-1,BR:DISCORVERY CIVILIZATION FULL  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9324
-#EXTINF:-1,BR:DISCORVERY THEATER FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9325
-#EXTINF:-1,BR:Discovery Channel FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9326
-#EXTINF:-1,BR:Discovery Home & Health FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9327
-#EXTINF:-1,BR:DISCOVERY KIDIS FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9328
-#EXTINF:-1,BR:DISNEY CHANEL FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9329
-#EXTINF:-1,BR:Disney Channel FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9330
-#EXTINF:-1,BR:DisneyJunior FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9331
-#EXTINF:-1,BR:Eptv Ribeirao FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9332
-#EXTINF:-1,BR:ESPN BRASIL FULL  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9333
-#EXTINF:-1,BR:FOX ESPORTES 2 FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9334
-#EXTINF:-1,BR:FOX ESPORTES FULL  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9335
-#EXTINF:-1,BR:GLOOB FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9336
-#EXTINF:-1,BR:HBO 2 FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9337
-#EXTINF:-1,BR:HBO FAMILY  FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9338
-#EXTINF:-1,BR:HBO FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9339
-#EXTINF:-1,BR:HBO PLUS FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9340
-#EXTINF:-1,BR:MAX FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9341
-#EXTINF:-1,BR:MAX UP FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9342
-#EXTINF:-1,BR:Megapix FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9343
-#EXTINF:-1,BR:MULTSHOW FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9344
-#EXTINF:-1,BR:NATIONAL GEOGRAPHIC FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9345
-#EXTINF:-1,BR:NICK JR  FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9346
-#EXTINF:-1,BR:NICKELOAD FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9347
-#EXTINF:-1,BR:PREMIERE 2 FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9348
-#EXTINF:-1,BR:PREMIERE 3 FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9349
-#EXTINF:-1,BR:PREMIERE 4 FULL  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9350
-#EXTINF:-1,BR:PREMIERE CLUBES FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9351
-#EXTINF:-1,BR:RECORD NEWS FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9352
-#EXTINF:-1,BR:RECORD TV INTERIOR RIBEIRAO FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9353
-#EXTINF:-1,BR:SBT FULL HD RIBEIRAO
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9354
-#EXTINF:-1,BR:Space FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9355
-#EXTINF:-1,BR:SPORT  2 FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9356
-#EXTINF:-1,BR:SPORT TV 3 FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9357
-#EXTINF:-1,BR:SPORTV  FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9358
-#EXTINF:-1,BR:TELECINE ACTION FULL  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9359
-#EXTINF:-1,BR:TELECINE FUN FULL  HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9360
-#EXTINF:-1,BR:TELECINE PIPOCA FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9361
-#EXTINF:-1,BR:TELECINE PREMIUM FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9362
-#EXTINF:-1,BR:TELECINE TOUCHFULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9363
-#EXTINF:-1,BR:THE HISTORY CHANNEL FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9364
-#EXTINF:-1,BR:TNT FULLHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9365
-#EXTINF:-1,BR:TNT Series FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9366
-#EXTINF:-1,BR:TV Aparecida FULL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9367
-#EXTINF:-1,BR: Can
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9368
-#EXTINF:-1,BR: Record RS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9369
-#EXTINF:-1,Pre: BBB MOSAICO
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8054
-#EXTINF:-1,Pre: A&E HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8055
-#EXTINF:-1,Pre: A&E SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8056
-#EXTINF:-1,Pre: AMC HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8057
-#EXTINF:-1,Pre: AMC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8058
-#EXTINF:-1,Pre: ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8059
-#EXTINF:-1,Pre: ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8060
-#EXTINF:-1,Pre: ARTE 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8061
-#EXTINF:-1,Pre: AXN HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8062
-#EXTINF:-1,Pre: AXN SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8063
-#EXTINF:-1,Pre: BABY TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8064
-#EXTINF:-1,Pre: BABY TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8065
-#EXTINF:-1,Pre: BAND SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8066
-#EXTINF:-1,Pre: BAND NEWS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8067
-#EXTINF:-1,Pre: SPORTV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8068
-#EXTINF:-1,Pre: SPORTV 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8069
-#EXTINF:-1,Pre: SPORTV 3 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8070
-#EXTINF:-1,Pre: COMBATE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8071
-#EXTINF:-1,Pre: BAND SPORTS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8072
-#EXTINF:-1,Pre: BIS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8073
-#EXTINF:-1,Pre: BOOMERANG HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8074
-#EXTINF:-1,Pre: BOOMERANG SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8075
-#EXTINF:-1,Pre: CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8076
-#EXTINF:-1,Pre: CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8077
-#EXTINF:-1,Pre: CAN
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8078
-#EXTINF:-1,Pre: CAN
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8079
-#EXTINF:-1,Pre: TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8080
-#EXTINF:-1,Pre: CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8081
-#EXTINF:-1,Pre: CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8082
-#EXTINF:-1,Pre: CINEMAX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8083
-#EXTINF:-1,Pre: CINEMAX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8084
-#EXTINF:-1,Pre: COMEDY CENTRAL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8085
-#EXTINF:-1,Pre: CURTA! SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8086
-#EXTINF:-1,Pre: DISCOVERY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8087
-#EXTINF:-1,Pre: DISCOVERY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8088
-#EXTINF:-1,Pre: HGTV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8089
-#EXTINF:-1,Pre: DISCOVERY HOME & HEALTH HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8090
-#EXTINF:-1,Pre: DISCOVERY HOME & HEALTH SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8091
-#EXTINF:-1,Pre: DISCOVERY KIDS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8092
-#EXTINF:-1,Pre: DISCOVERY KIDS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8093
-#EXTINF:-1,Pre: DISCOVERY SCIENCE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8094
-#EXTINF:-1,Pre: DISCOVERY SCIENCE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8095
-#EXTINF:-1,Pre: DISCOVERY THEATER HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8096
-#EXTINF:-1,Pre: DISCOVERY THEATER SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8097
-#EXTINF:-1,Pre: DISCOVERY TURBO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8098
-#EXTINF:-1,Pre: DISCOVERY TURBO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8099
-#EXTINF:-1,Pre: DISCOVERY WORLD HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8100
-#EXTINF:-1,Pre: DISCOVERY WORLD SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8101
-#EXTINF:-1,Pre: DISNEY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8102
-#EXTINF:-1,Pre: DISNEY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8103
-#EXTINF:-1,Pre: DISNEY JUNIOR HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8104
-#EXTINF:-1,Pre: DISNEY JUNIOR SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8105
-#EXTINF:-1,Pre: DISNEY XD HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8106
-#EXTINF:-1,Pre: DISNEY XD SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8107
-#EXTINF:-1,Pre: E! SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8108
-#EXTINF:-1,Pre: ESPORTE INTERATIVO HD 
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8109
-#EXTINF:-1,Pre: ESPORTE INTERATIVO HD 
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8110
-#EXTINF:-1,Pre: ESPORTE INTERATIVO SD 
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8111
-#EXTINF:-1,Pre: ESPN SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8112
-#EXTINF:-1,Pre: ESPN 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8113
-#EXTINF:-1,Pre: ESPN BRASIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8114
-#EXTINF:-1,Pre: FOX SPORTS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8115
-#EXTINF:-1,Pre: FOX SPORTS 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8116
-#EXTINF:-1,Pre: FISH TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8117
-#EXTINF:-1,Pre: FOOD NETWORK SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8118
-#EXTINF:-1,Pre: FOX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8119
-#EXTINF:-1,Pre: FOX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8120
-#EXTINF:-1,Pre: FOX LIFE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8121
-#EXTINF:-1,Pre: FOX LIFE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8122
-#EXTINF:-1,Pre: FOX PREMIUM 1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8123
-#EXTINF:-1,Pre: FOX PREMIUM 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8124
-#EXTINF:-1,Pre: FOX PREMIUM 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8125
-#EXTINF:-1,Pre: FOX PREMIUM 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8126
-#EXTINF:-1,Pre: FX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8127
-#EXTINF:-1,Pre: FX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8128
-#EXTINF:-1,Pre: GLOBO SP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8129
-#EXTINF:-1,Pre: GLOBO RJ SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8130
-#EXTINF:-1,Pre: GLOBO BAHIA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8131
-#EXTINF:-1,Pre: GLOBO BRASILIA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8132
-#EXTINF:-1,Pre: GLOBO TV ANHANGUERA GOIANIA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8133
-#EXTINF:-1,Pre: GLOBO TV CENTRO AMERICA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8134
-#EXTINF:-1,Pre: GLOBO EPTV CAMPINAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8135
-#EXTINF:-1,Pre: GLOBO EPTV RIBEIRAO PRETO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8136
-#EXTINF:-1,Pre: GLOBO EPTV SAO CARLOS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8137
-#EXTINF:-1,Pre: GLOBO INTERTV CABUGI SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8138
-#EXTINF:-1,Pre: GLOBO MINAS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8139
-#EXTINF:-1,Pre: GLOBO NORDESTE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8140
-#EXTINF:-1,Pre: GLOBO REDE AMAZONICA MANAUS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8141
-#EXTINF:-1,Pre: GLOBO RBS TV PORTO ALEGRE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8142
-#EXTINF:-1,Pre: GLOBO TV LIBERAL BELEM SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8143
-#EXTINF:-1,Pre: GLOBO TV TEM BAURU SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8144
-#EXTINF:-1,Pre: GLOBO TV TEM SOROCABA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8145
-#EXTINF:-1,Pre: GLOBO TV TRIBUNA SANTOS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8146
-#EXTINF:-1,Pre: GLOBO TV VANGUARDA S.J DOS CAMPOS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8147
-#EXTINF:-1,Pre: GLOBO TV VERDES MARES SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8148
-#EXTINF:-1,Pre: GLOBO NEWS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8149
-#EXTINF:-1,Pre: SBT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8150
-#EXTINF:-1,Pre: SBT PARANA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8151
-#EXTINF:-1,Pre: MAIS GLOBOSAT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8152
-#EXTINF:-1,Pre: GLOOB HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8153
-#EXTINF:-1,Pre: GLOOB SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8154
-#EXTINF:-1,Pre: GNT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8155
-#EXTINF:-1,Pre: H2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8156
-#EXTINF:-1,Pre: H2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8157
-#EXTINF:-1,Pre: HBO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8158
-#EXTINF:-1,Pre: HBO 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8159
-#EXTINF:-1,Pre: HBO FAMILY SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8160
-#EXTINF:-1,Pre: HBO PLUS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8161
-#EXTINF:-1,Pre: HBO SIGNATURE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8162
-#EXTINF:-1,Pre: HISTORY CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8163
-#EXTINF:-1,Pre: HISTORY CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8164
-#EXTINF:-1,Pre: ID - INVESTIGA
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8165
-#EXTINF:-1,Pre: ID - INVESTIGA
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8166
-#EXTINF:-1,Pre: LIFETIME SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8167
-#EXTINF:-1,Pre: HBO XTREME SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8168
-#EXTINF:-1,Pre: HBO POP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8169
-#EXTINF:-1,Pre: MEGAPIX HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8170
-#EXTINF:-1,Pre: MEGAPIX SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8171
-#EXTINF:-1,Pre: MTV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8172
-#EXTINF:-1,Pre: MULTISHOW SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8173
-#EXTINF:-1,Pre: MUSIC BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8174
-#EXTINF:-1,Pre: NAT GEO KIDS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8175
-#EXTINF:-1,Pre: NAT GEO KIDS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8176
-#EXTINF:-1,Pre: NAT GEO WILD HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8177
-#EXTINF:-1,Pre: NAT GEO WILD SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8178
-#EXTINF:-1,Pre: NATIONAL GEOGRAPHIC HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8179
-#EXTINF:-1,Pre: NATIONAL GEOGRAPHIC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8180
-#EXTINF:-1,Pre: NHK SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8181
-#EXTINF:-1,Pre: NICK JUNIOR HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8182
-#EXTINF:-1,Pre: NICK JUNIOR SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8183
-#EXTINF:-1,Pre: NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8184
-#EXTINF:-1,Pre: NICKELODEON HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8185
-#EXTINF:-1,Pre: NICKELODEON SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8186
-#EXTINF:-1,Pre: NOVO TEMPO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8187
-#EXTINF:-1,Pre: OFF SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8188
-#EXTINF:-1,Pre: PARAMOUNT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8189
-#EXTINF:-1,Pre: PARAMOUNT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8190
-#EXTINF:-1,Pre: PLAY TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8191
-#EXTINF:-1,Pre: PREMIERE CLUBES HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8192
-#EXTINF:-1,Pre: PREMIERE CLUBES SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8193
-#EXTINF:-1,Pre: PREMIERE 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8194
-#EXTINF:-1,Pre: PREMIERE 2 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8195
-#EXTINF:-1,Pre: PREMIERE 3 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8196
-#EXTINF:-1,Pre: PREMIERE 3 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8197
-#EXTINF:-1,Pre: PREMIERE 4 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8198
-#EXTINF:-1,Pre: PREMIERE 4 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8199
-#EXTINF:-1,Pre: PREMIERE 5 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8200
-#EXTINF:-1,Pre: PREMIERE 5 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8201
-#EXTINF:-1,Pre: PREMIERE 6 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8202
-#EXTINF:-1,Pre: PREMIERE 6 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8203
-#EXTINF:-1,Pre: PREMIERE 7 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8204
-#EXTINF:-1,Pre: PREMIERE 8 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8205
-#EXTINF:-1,Pre: PRIME BOX BRAZIL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8206
-#EXTINF:-1,Pre: RECORD SP SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8207
-#EXTINF:-1,Pre: RECORD RIO GRANDE DO SUL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8208
-#EXTINF:-1,Pre: RECORD GOIAS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8209
-#EXTINF:-1,Pre: RECORD PARA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8210
-#EXTINF:-1,Pre: RECORD BH HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8211
-#EXTINF:-1,Pre: RECORD DF HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8212
-#EXTINF:-1,Pre: RECORD RIO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8213
-#EXTINF:-1,Pre: RECORD NEWS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8214
-#EXTINF:-1,Pre: TV UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8215
-#EXTINF:-1,Pre: REDE TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8216
-#EXTINF:-1,Pre: REDE VIDA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8217
-#EXTINF:-1,Pre: REDE VIDA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8218
-#EXTINF:-1,Pre: REDE GOSPEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8219
-#EXTINF:-1,Pre: SONY HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8220
-#EXTINF:-1,Pre: SONY SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8221
-#EXTINF:-1,Pre: SPACE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8222
-#EXTINF:-1,Pre: SPACE SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8223
-#EXTINF:-1,Pre: STUDIO UNIVERSAL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8224
-#EXTINF:-1,Pre: STUDIO UNIVERSAL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8225
-#EXTINF:-1,Pre: SYFY HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8226
-#EXTINF:-1,Pre: SYFY SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8227
-#EXTINF:-1,Pre: TBS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8228
-#EXTINF:-1,Pre: TBS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8229
-#EXTINF:-1,Pre: TCM SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8230
-#EXTINF:-1,Pre: TELECINE ACTION SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8231
-#EXTINF:-1,Pre: TELECINE CULT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8232
-#EXTINF:-1,Pre: TELECINE FUN SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8233
-#EXTINF:-1,Pre: TELECINE PIPOCA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8234
-#EXTINF:-1,Pre: TELECINE PREMIUM SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8235
-#EXTINF:-1,Pre: TELECINE TOUCH SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8236
-#EXTINF:-1,Pre: TLC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8237
-#EXTINF:-1,Pre: TNT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8238
-#EXTINF:-1,Pre: TNT SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8239
-#EXTINF:-1,Pre: TNT S
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8240
-#EXTINF:-1,Pre: TNT S
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8241
-#EXTINF:-1,Pre: TOONCAST HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8242
-#EXTINF:-1,Pre: TOONCAST HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8243
-#EXTINF:-1,Pre: TOONCAST SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8244
-#EXTINF:-1,Pre: TV APARECIDA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8245
-#EXTINF:-1,Pre: TV APARECIDA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8246
-#EXTINF:-1,Pre: UNIVERSAL CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8247
-#EXTINF:-1,Pre: VH1 MEGAHITS SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8248
-#EXTINF:-1,Pre: VIVA SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8249
-#EXTINF:-1,Pre: WARNER CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8250
-#EXTINF:-1,Pre: WARNER CHANNEL SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8251
-#EXTINF:-1,Pre: WOOHOO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8252
-#EXTINF:-1,Pre: ZOOMOO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8253
-#EXTINF:-1,Pre: ZOOMOO SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8254
-#EXTINF:-1,Pre: IDEAL TV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8255
-#EXTINF:-1,Pre: REDE SECULO 21 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8256
-#EXTINF:-1,Pre: TV ARAPUAN REDE VIDA PB HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8257
-#EXTINF:-1,Pre: COPA CATARINENSE 1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8258
-#EXTINF:-1,Pre: COPA CATARINENSE 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8259
-#EXTINF:-1,Pre:BBB CAM 1 FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8260
-#EXTINF:-1,Pre:BBB CAM 1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8261
-#EXTINF:-1,Pre:BBB CAM 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8262
-#EXTINF:-1,Pre: MAIS GLOBO SAT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8692
-#EXTINF:-1,Pre: GLOBO RJ HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8693
-#EXTINF:-1,Pre: GLOBO SP HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8694
-#EXTINF:-1,Pre: TOP TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8695
-#EXTINF:-1,Pre: VH1 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8696
-#EXTINF:-1,Pre: BAND HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8697
-#EXTINF:-1,Pre: BAND NEWS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8698
-#EXTINF:-1,Pre: BAND SPORTS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8699
-#EXTINF:-1,Pre: UNIVERSAL CHANNEL HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8700
-#EXTINF:-1,Pre: OFF HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8701
-#EXTINF:-1,Pre: HBO HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8702
-#EXTINF:-1,Pre: HBO 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8703
-#EXTINF:-1,Pre: HBO FAMILY HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8704
-#EXTINF:-1,Pre: HBO SIGNATURE HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8705
-#EXTINF:-1,Pre: HBO PLUS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8706
-#EXTINF:-1,Pre: HBO POP HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8707
-#EXTINF:-1,Pre: HBO EXTREME HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8708
-#EXTINF:-1,Pre: HBO MUNDI HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8709
-#EXTINF:-1,Pre: TV GAZETA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8710
-#EXTINF:-1,Pre: MTV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8711
-#EXTINF:-1,Pre: TELE CINE PIPOCA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8712
-#EXTINF:-1,Pre: TELECINE CULT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8713
-#EXTINF:-1,Pre: SPOR TV 3 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8714
-#EXTINF:-1,Pre: REDE TV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8715
-#EXTINF:-1,Pre: MULTISHOW HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8716
-#EXTINF:-1,Pre: GNT HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8717
-#EXTINF:-1,Pre: E! HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8718
-#EXTINF:-1,Pre: FOX SPORTS 2 HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8719
-#EXTINF:-1,Pre: ESPN HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8720
-#EXTINF:-1,Pre: DISCOVERY CIVILIZATION HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8721
-#EXTINF:-1,Pre: CURTA HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8722
-#EXTINF:-1,Pre: BIS HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8723
-#EXTINF:-1,Pre: BBB  20 CAN 1 FHD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9370
 #EXTINF:-1,Live: A&E HD
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8724
 #EXTINF:-1,Live: A&E SD
@@ -1775,3 +619,487 @@ plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9032
 #EXTINF:-1,Live: TCM SD
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9033
+#EXTINF:-1,Pre: BBB MOSAICO
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8054
+#EXTINF:-1,Pre: A&E HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8055
+#EXTINF:-1,Pre: A&E SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8056
+#EXTINF:-1,Pre: AMC HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8057
+#EXTINF:-1,Pre: AMC SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8058
+#EXTINF:-1,Pre: ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8059
+#EXTINF:-1,Pre: ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8060
+#EXTINF:-1,Pre: ARTE 1 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8061
+#EXTINF:-1,Pre: AXN HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8062
+#EXTINF:-1,Pre: AXN SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8063
+#EXTINF:-1,Pre: BABY TV HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8064
+#EXTINF:-1,Pre: BABY TV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8065
+#EXTINF:-1,Pre: BAND SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8066
+#EXTINF:-1,Pre: BAND NEWS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8067
+#EXTINF:-1,Pre: SPORTV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8068
+#EXTINF:-1,Pre: SPORTV 2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8069
+#EXTINF:-1,Pre: SPORTV 3 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8070
+#EXTINF:-1,Pre: COMBATE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8071
+#EXTINF:-1,Pre: BAND SPORTS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8072
+#EXTINF:-1,Pre: BIS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8073
+#EXTINF:-1,Pre: BOOMERANG HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8074
+#EXTINF:-1,Pre: BOOMERANG SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8075
+#EXTINF:-1,Pre: CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8076
+#EXTINF:-1,Pre: CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8077
+#EXTINF:-1,Pre: CAN
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8078
+#EXTINF:-1,Pre: CAN
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8079
+#EXTINF:-1,Pre: TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8080
+#EXTINF:-1,Pre: CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8081
+#EXTINF:-1,Pre: CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8082
+#EXTINF:-1,Pre: CINEMAX HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8083
+#EXTINF:-1,Pre: CINEMAX SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8084
+#EXTINF:-1,Pre: COMEDY CENTRAL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8085
+#EXTINF:-1,Pre: CURTA! SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8086
+#EXTINF:-1,Pre: DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8087
+#EXTINF:-1,Pre: DISCOVERY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8088
+#EXTINF:-1,Pre: HGTV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8089
+#EXTINF:-1,Pre: DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8090
+#EXTINF:-1,Pre: DISCOVERY HOME & HEALTH SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8091
+#EXTINF:-1,Pre: DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8092
+#EXTINF:-1,Pre: DISCOVERY KIDS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8093
+#EXTINF:-1,Pre: DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8094
+#EXTINF:-1,Pre: DISCOVERY SCIENCE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8095
+#EXTINF:-1,Pre: DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8096
+#EXTINF:-1,Pre: DISCOVERY THEATER SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8097
+#EXTINF:-1,Pre: DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8098
+#EXTINF:-1,Pre: DISCOVERY TURBO SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8099
+#EXTINF:-1,Pre: DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8100
+#EXTINF:-1,Pre: DISCOVERY WORLD SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8101
+#EXTINF:-1,Pre: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8102
+#EXTINF:-1,Pre: DISNEY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8103
+#EXTINF:-1,Pre: DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8104
+#EXTINF:-1,Pre: DISNEY JUNIOR SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8105
+#EXTINF:-1,Pre: DISNEY XD HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8106
+#EXTINF:-1,Pre: DISNEY XD SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8107
+#EXTINF:-1,Pre: E! SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8108
+#EXTINF:-1,Pre: ESPORTE INTERATIVO HD 
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8109
+#EXTINF:-1,Pre: ESPORTE INTERATIVO HD 
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8110
+#EXTINF:-1,Pre: ESPORTE INTERATIVO SD 
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8111
+#EXTINF:-1,Pre: ESPN SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8112
+#EXTINF:-1,Pre: ESPN 2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8113
+#EXTINF:-1,Pre: ESPN BRASIL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8114
+#EXTINF:-1,Pre: FOX SPORTS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8115
+#EXTINF:-1,Pre: FOX SPORTS 2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8116
+#EXTINF:-1,Pre: FISH TV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8117
+#EXTINF:-1,Pre: FOOD NETWORK SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8118
+#EXTINF:-1,Pre: FOX HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8119
+#EXTINF:-1,Pre: FOX SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8120
+#EXTINF:-1,Pre: FOX LIFE HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8121
+#EXTINF:-1,Pre: FOX LIFE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8122
+#EXTINF:-1,Pre: FOX PREMIUM 1 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8123
+#EXTINF:-1,Pre: FOX PREMIUM 1 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8124
+#EXTINF:-1,Pre: FOX PREMIUM 2 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8125
+#EXTINF:-1,Pre: FOX PREMIUM 2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8126
+#EXTINF:-1,Pre: FX HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8127
+#EXTINF:-1,Pre: FX SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8128
+#EXTINF:-1,Pre: GLOBO SP SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8129
+#EXTINF:-1,Pre: GLOBO RJ SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8130
+#EXTINF:-1,Pre: GLOBO BAHIA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8131
+#EXTINF:-1,Pre: GLOBO BRASILIA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8132
+#EXTINF:-1,Pre: GLOBO TV ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8133
+#EXTINF:-1,Pre: GLOBO TV CENTRO AMERICA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8134
+#EXTINF:-1,Pre: GLOBO EPTV CAMPINAS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8135
+#EXTINF:-1,Pre: GLOBO EPTV RIBEIRAO PRETO SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8136
+#EXTINF:-1,Pre: GLOBO EPTV SAO CARLOS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8137
+#EXTINF:-1,Pre: GLOBO INTERTV CABUGI SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8138
+#EXTINF:-1,Pre: GLOBO MINAS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8139
+#EXTINF:-1,Pre: GLOBO NORDESTE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8140
+#EXTINF:-1,Pre: GLOBO REDE AMAZONICA MANAUS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8141
+#EXTINF:-1,Pre: GLOBO RBS TV PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8142
+#EXTINF:-1,Pre: GLOBO TV LIBERAL BELEM SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8143
+#EXTINF:-1,Pre: GLOBO TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8144
+#EXTINF:-1,Pre: GLOBO TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8145
+#EXTINF:-1,Pre: GLOBO TV TRIBUNA SANTOS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8146
+#EXTINF:-1,Pre: GLOBO TV VANGUARDA S.J DOS CAMPOS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8147
+#EXTINF:-1,Pre: GLOBO TV VERDES MARES SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8148
+#EXTINF:-1,Pre: GLOBO NEWS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8149
+#EXTINF:-1,Pre: SBT SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8150
+#EXTINF:-1,Pre: SBT PARANA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8151
+#EXTINF:-1,Pre: MAIS GLOBOSAT SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8152
+#EXTINF:-1,Pre: GLOOB HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8153
+#EXTINF:-1,Pre: GLOOB SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8154
+#EXTINF:-1,Pre: GNT SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8155
+#EXTINF:-1,Pre: H2 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8156
+#EXTINF:-1,Pre: H2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8157
+#EXTINF:-1,Pre: HBO SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8158
+#EXTINF:-1,Pre: HBO 2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8159
+#EXTINF:-1,Pre: HBO FAMILY SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8160
+#EXTINF:-1,Pre: HBO PLUS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8161
+#EXTINF:-1,Pre: HBO SIGNATURE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8162
+#EXTINF:-1,Pre: HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8163
+#EXTINF:-1,Pre: HISTORY CHANNEL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8164
+#EXTINF:-1,Pre: ID - INVESTIGA
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8165
+#EXTINF:-1,Pre: ID - INVESTIGA
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8166
+#EXTINF:-1,Pre: LIFETIME SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8167
+#EXTINF:-1,Pre: HBO XTREME SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8168
+#EXTINF:-1,Pre: HBO POP SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8169
+#EXTINF:-1,Pre: MEGAPIX HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8170
+#EXTINF:-1,Pre: MEGAPIX SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8171
+#EXTINF:-1,Pre: MTV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8172
+#EXTINF:-1,Pre: MULTISHOW SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8173
+#EXTINF:-1,Pre: MUSIC BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8174
+#EXTINF:-1,Pre: NAT GEO KIDS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8175
+#EXTINF:-1,Pre: NAT GEO KIDS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8176
+#EXTINF:-1,Pre: NAT GEO WILD HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8177
+#EXTINF:-1,Pre: NAT GEO WILD SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8178
+#EXTINF:-1,Pre: NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8179
+#EXTINF:-1,Pre: NATIONAL GEOGRAPHIC SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8180
+#EXTINF:-1,Pre: NHK SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8181
+#EXTINF:-1,Pre: NICK JUNIOR HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8182
+#EXTINF:-1,Pre: NICK JUNIOR SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8183
+#EXTINF:-1,Pre: NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8184
+#EXTINF:-1,Pre: NICKELODEON HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8185
+#EXTINF:-1,Pre: NICKELODEON SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8186
+#EXTINF:-1,Pre: NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8187
+#EXTINF:-1,Pre: OFF SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8188
+#EXTINF:-1,Pre: PARAMOUNT HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8189
+#EXTINF:-1,Pre: PARAMOUNT SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8190
+#EXTINF:-1,Pre: PLAY TV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8191
+#EXTINF:-1,Pre: PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8192
+#EXTINF:-1,Pre: PREMIERE CLUBES SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8193
+#EXTINF:-1,Pre: PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8194
+#EXTINF:-1,Pre: PREMIERE 2 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8195
+#EXTINF:-1,Pre: PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8196
+#EXTINF:-1,Pre: PREMIERE 3 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8197
+#EXTINF:-1,Pre: PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8198
+#EXTINF:-1,Pre: PREMIERE 4 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8199
+#EXTINF:-1,Pre: PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8200
+#EXTINF:-1,Pre: PREMIERE 5 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8201
+#EXTINF:-1,Pre: PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8202
+#EXTINF:-1,Pre: PREMIERE 6 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8203
+#EXTINF:-1,Pre: PREMIERE 7 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8204
+#EXTINF:-1,Pre: PREMIERE 8 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8205
+#EXTINF:-1,Pre: PRIME BOX BRAZIL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8206
+#EXTINF:-1,Pre: RECORD SP SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8207
+#EXTINF:-1,Pre: RECORD RIO GRANDE DO SUL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8208
+#EXTINF:-1,Pre: RECORD GOIAS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8209
+#EXTINF:-1,Pre: RECORD PARA HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8210
+#EXTINF:-1,Pre: RECORD BH HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8211
+#EXTINF:-1,Pre: RECORD DF HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8212
+#EXTINF:-1,Pre: RECORD RIO HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8213
+#EXTINF:-1,Pre: RECORD NEWS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8214
+#EXTINF:-1,Pre: TV UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8215
+#EXTINF:-1,Pre: REDE TV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8216
+#EXTINF:-1,Pre: REDE VIDA HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8217
+#EXTINF:-1,Pre: REDE VIDA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8218
+#EXTINF:-1,Pre: REDE GOSPEL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8219
+#EXTINF:-1,Pre: SONY HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8220
+#EXTINF:-1,Pre: SONY SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8221
+#EXTINF:-1,Pre: SPACE HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8222
+#EXTINF:-1,Pre: SPACE SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8223
+#EXTINF:-1,Pre: STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8224
+#EXTINF:-1,Pre: STUDIO UNIVERSAL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8225
+#EXTINF:-1,Pre: SYFY HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8226
+#EXTINF:-1,Pre: SYFY SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8227
+#EXTINF:-1,Pre: TBS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8228
+#EXTINF:-1,Pre: TBS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8229
+#EXTINF:-1,Pre: TCM SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8230
+#EXTINF:-1,Pre: TELECINE ACTION SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8231
+#EXTINF:-1,Pre: TELECINE CULT SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8232
+#EXTINF:-1,Pre: TELECINE FUN SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8233
+#EXTINF:-1,Pre: TELECINE PIPOCA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8234
+#EXTINF:-1,Pre: TELECINE PREMIUM SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8235
+#EXTINF:-1,Pre: TELECINE TOUCH SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8236
+#EXTINF:-1,Pre: TLC SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8237
+#EXTINF:-1,Pre: TNT HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8238
+#EXTINF:-1,Pre: TNT SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8239
+#EXTINF:-1,Pre: TNT S
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8240
+#EXTINF:-1,Pre: TNT S
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8241
+#EXTINF:-1,Pre: TOONCAST HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8242
+#EXTINF:-1,Pre: TOONCAST HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8243
+#EXTINF:-1,Pre: TOONCAST SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8244
+#EXTINF:-1,Pre: TV APARECIDA HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8245
+#EXTINF:-1,Pre: TV APARECIDA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8246
+#EXTINF:-1,Pre: UNIVERSAL CHANNEL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8247
+#EXTINF:-1,Pre: VH1 MEGAHITS SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8248
+#EXTINF:-1,Pre: VIVA SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8249
+#EXTINF:-1,Pre: WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8250
+#EXTINF:-1,Pre: WARNER CHANNEL SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8251
+#EXTINF:-1,Pre: WOOHOO SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8252
+#EXTINF:-1,Pre: ZOOMOO HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8253
+#EXTINF:-1,Pre: ZOOMOO SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8254
+#EXTINF:-1,Pre: IDEAL TV SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8255
+#EXTINF:-1,Pre: REDE SECULO 21 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8256
+#EXTINF:-1,Pre: TV ARAPUAN REDE VIDA PB HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8257
+#EXTINF:-1,Pre: COPA CATARINENSE 1 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8258
+#EXTINF:-1,Pre: COPA CATARINENSE 2 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8259
+#EXTINF:-1,Pre:BBB CAM 1 FHD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8260
+#EXTINF:-1,Pre:BBB CAM 1 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8261
+#EXTINF:-1,Pre:BBB CAM 1 SD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8262
+#EXTINF:-1,Pre: MAIS GLOBO SAT HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8692
+#EXTINF:-1,Pre: GLOBO RJ HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8693
+#EXTINF:-1,Pre: GLOBO SP HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8694
+#EXTINF:-1,Pre: TOP TV HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8695
+#EXTINF:-1,Pre: VH1 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8696
+#EXTINF:-1,Pre: BAND HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8697
+#EXTINF:-1,Pre: BAND NEWS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8698
+#EXTINF:-1,Pre: BAND SPORTS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8699
+#EXTINF:-1,Pre: UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8700
+#EXTINF:-1,Pre: OFF HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8701
+#EXTINF:-1,Pre: HBO HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8702
+#EXTINF:-1,Pre: HBO 2 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8703
+#EXTINF:-1,Pre: HBO FAMILY HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8704
+#EXTINF:-1,Pre: HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8705
+#EXTINF:-1,Pre: HBO PLUS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8706
+#EXTINF:-1,Pre: HBO POP HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8707
+#EXTINF:-1,Pre: HBO EXTREME HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8708
+#EXTINF:-1,Pre: HBO MUNDI HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8709
+#EXTINF:-1,Pre: TV GAZETA HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8710
+#EXTINF:-1,Pre: MTV HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8711
+#EXTINF:-1,Pre: TELE CINE PIPOCA HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8712
+#EXTINF:-1,Pre: TELECINE CULT HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8713
+#EXTINF:-1,Pre: SPOR TV 3 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8714
+#EXTINF:-1,Pre: REDE TV HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8715
+#EXTINF:-1,Pre: MULTISHOW HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8716
+#EXTINF:-1,Pre: GNT HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8717
+#EXTINF:-1,Pre: E! HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8718
+#EXTINF:-1,Pre: FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8719
+#EXTINF:-1,Pre: ESPN HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8720
+#EXTINF:-1,Pre: DISCOVERY CIVILIZATION HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8721
+#EXTINF:-1,Pre: CURTA HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8722
+#EXTINF:-1,Pre: BIS HD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/8723
+#EXTINF:-1,Pre: BBB  20 CAN 1 FHD
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://online.goldpremium.xyz:80/t.vonline45/live/9370
