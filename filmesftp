@@ -6,6 +6,12 @@ http://195.154.184.17/Ajuste%20de%20Contas%202020/Ajuste.de.Contas.2019.720p.Blu
 http://proxyts2.ec.cx:8083/hls1/discoveryturbo.m3u8
 #EXTINF:0 tvg-logo=""group-title="Filmes",Teste Gdrive
 https://drive.google.com/file/d/1rjGZbQDD7dPgPpqDqMwLtJ7IuWQJh4jn/view?usp=drive_open
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Fox
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Discovery Channel
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Discover Kids
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",Sobreviva a noite
 http://195.154.184.17/%5bWWW.BLUDV.TV%5d%20Sobreviva%20a%20Noite%202019%20(720p%20-%20BluRay)%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Sobreviva.a.Noite.2019.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4
