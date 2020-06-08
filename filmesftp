@@ -13,9 +13,11 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chu
 #EXTINF:0 tvg-logo=""group-title="Filmes",Teste Gdrive
 https://drive.google.com/file/d/1rjGZbQDD7dPgPpqDqMwLtJ7IuWQJh4jn/view?usp=drive_open
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fox.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fx
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Globo
+http://proxyts.habbin.fo:8084/hls1/bobonordeste.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", HBO
 https://stream.ec.cx/hls1/hbo.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",Fox hd
