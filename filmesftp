@@ -14,6 +14,8 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) HBO
 https://stream.ec.cx/hls1/hbo.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) fox hd
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1431167_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",Sobreviva a noite
 http://195.154.184.17/%5bWWW.BLUDV.TV%5d%20Sobreviva%20a%20Noite%202019%20(720p%20-%20BluRay)%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Sobreviva.a.Noite.2019.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4
