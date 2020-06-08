@@ -10,8 +10,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chun
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",  Discover Kids
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:0 tvg-logo=""group-title="Filmes",Teste Gdrive
-https://drive.google.com/file/d/1rjGZbQDD7dPgPpqDqMwLtJ7IuWQJh4jn/view?usp=drive_open
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fox.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox Sport
