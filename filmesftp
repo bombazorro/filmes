@@ -6,21 +6,21 @@ http://195.154.184.17/Ajuste%20de%20Contas%202020/Ajuste.de.Contas.2019.720p.Blu
 http://proxyts2.ec.cx:8083/hls1/discoveryturbo.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Discovery Channel
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",  Discover Kids
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:0 tvg-logo=""group-title="Filmes",Teste Gdrive
 https://drive.google.com/file/d/1rjGZbQDD7dPgPpqDqMwLtJ7IuWQJh4jn/view?usp=drive_open
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Fox
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Fx
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fx
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Discovery Channel
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) Discover Kids
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) HBO
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", HBO
 https://stream.ec.cx/hls1/hbo.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) fox hd
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",Fox hd
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1431167_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", (ONLINE) MTV
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",MTV
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",Sobreviva a noite
