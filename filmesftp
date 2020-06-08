@@ -11,7 +11,7 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",  Discover Kids
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",  Disnel Channel
-https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?sd=10&rebase=on
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fox.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox Sport
