@@ -16,9 +16,9 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunkli
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Canais",Discovery Kids FHD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",  Disnel Channel
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Disnel Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",  ESPN
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", ESPN
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fox.smil/chunklist_b528441_sleng.m3u8
@@ -296,41 +296,41 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4220
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xGzpPfe.jpg"group-title="Canais mag00",Discovery Science
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4222
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Discovery Turbo
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais mag00",Discovery Turbo
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4223
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQSxcnd.png"group-title="Canais mag00",Disney Channel
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4224
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Disney Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais mag00",Disney Junior
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4225
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Disney XD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais mag00",Disney XD
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4226
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",E!
+#EXTINF:-1 tvg-logo="https://goo.gl/V6G6Hy"group-title="Canais mag00",E!
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4227
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Eimax 1 Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ledljQn.jpg"group-title="Canais mag00",Eimax 1 Sport
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4228
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Eimax 2 Sport
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ledljQn.jpg"group-title="Canais mag00",Eimax 2 Sport
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4229
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",ESPN Brasil
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais mag00",ESPN Brasil
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4230
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Fish TV
+#EXTINF:-1 tvg-logo="http://i.imgur.com/IroXP7H.png"group-title="Canais mag00",Fish TV
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4231
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",FOX
+#EXTINF:-1 tvg-logo="http://i.imgur.com/Od0wkz3.png"group-title="Canais mag00",FOX
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4232
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Fox Life
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais mag00",Fox Life
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4233
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Fox Sports
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais mag00",Fox Sports
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4234
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Fox Sports 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/150raP9.png"group-title="Canais mag00",Fox Sports 2
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4235
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",FX
+#EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png"group-title="Canais mag00",FX
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4236
 #EXTINF:-1 tvg-logo=""group-title="Canais mag00",GloboNews
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4237
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",TV Globo São Paulo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais mag00",TV Globo São Paulo
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4238
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Gloob
+#EXTINF:-1 tvg-logo="http://i.imgur.com/mFDFUjt.png"group-title="Canais mag00",Gloob
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4239
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",History 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais mag00",History 2
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4240
 #EXTINF:-1 tvg-logo=""group-title="Canais mag00",HBO
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4241
