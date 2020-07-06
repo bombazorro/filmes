@@ -659,7 +659,7 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/99815
 gino123
 #EXTINF:-1,########## Brazil ##########
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6149
-#EXTINF:-1,A&E HD BR
+#EXTINF:-1 tvg-logo=""group-title="Canais",A&E HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16525
 #EXTINF:-1,A&E BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6148
