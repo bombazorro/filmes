@@ -8,6 +8,8 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklis
 http://proxyts2.ec.cx:8083/hls1/discoveryturbo.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:0 tvg-logo=""group-title="Canais",TNT series
+https://megafilmeshd50.top/iptv.php?source=https://player.ec.cx/player3/canaishlb.php?canal=tntseries
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Canais",Discovery Kids
