@@ -326,7 +326,7 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4234
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4235
 #EXTINF:-1 tvg-logo="http://i.imgur.com/GaQZSu6.png"group-title="Canais mag00",FX
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4236
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",GloboNews
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/globo-news-logo.png"group-title="Canais mag00",GloboNews
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4237
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais mag00",TV Globo São Paulo
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4238
@@ -368,9 +368,9 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4255
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4256
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png"group-title="Canais mag00",Premiere Clubes HD
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4257
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Record News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png"group-title="Canais mag00",Record News
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4258
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",RecordTV
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="Canais mag00",RecordTV
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4259
 #EXTINF:-1 tvg-logo=""group-title="Canais mag00",SporTV
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4260
@@ -380,7 +380,7 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4261
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4262
 #EXTINF:-1 tvg-logo=""group-title="Canais mag00",Studio Universal
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4263
-#EXTINF:-1 tvg-logo=""group-title="Canais mag00",Syfy
+#EXTINF:-1 tvg-logo="https://www.syfy.pt/sites/all/themes/pint_themes/base_syfywire/logo.svg"group-title="Canais mag00",Syfy
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4264
 #EXTINF:-1 tvg-logo=""group-title="Canais mag00",TCM (Turner Classic Movies)
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4265
