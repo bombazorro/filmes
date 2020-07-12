@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",Ajuste de contas
-http://195.154.184.17/Ajuste%20de%20Contas%202020/Ajuste.de.Contas.2019.720p.BluRay.x264-COMANDO.TO.mp4
+#EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",A Maldição da Sereia
+http://ustream.pw/hls/8fbaf39648d8d780e0252709d12185f3.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",Discovery Turbo
