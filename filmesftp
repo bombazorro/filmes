@@ -6,6 +6,8 @@ http://ustream.pw/hls/8fbaf39648d8d780e0252709d12185f3.m3u8
 http://fly.cupefly.club/bucket/365dias.mp4
 #EXTINF:0 tvg-logo=""group-title="Filmes",Missy a Errada
 http://fly.cupefly.club/bucket/amissyerrada.mp4
+#EXTINF:0 tvg-logo=""group-title="Filmes",Bad Boys para sempre
+http://fly.cupefly.club/bucket/badboysparasempre.mp4
 #EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",Discovery Turbo
