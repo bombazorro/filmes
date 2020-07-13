@@ -6,9 +6,9 @@ http://ustream.pw/hls/8fbaf39648d8d780e0252709d12185f3.m3u8
 http://fly.cupefly.club/bucket/365dias.mp4
 #EXTINF:0 tvg-logo=""group-title="Filmes",Missy a Errada
 http://fly.cupefly.club/bucket/amissyerrada.mp4
-#EXTINF:0 tvg-logo=""group-title="Filmes",Bad Boys para sempre
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XbDvqr6oL._AC_SX569_.jpg"group-title="Filmes",Bad Boys para sempre
 http://fly.cupefly.club/bucket/badboysparasempre.mp4
-#EXTINF:0 tvg-logo=""group-title="Filmes",Isi & Ossi
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/pS7PugbKxQM/hqdefault.jpg"group-title="Filmes",Isi & Ossi
 http://fly.cupefly.club/bucket/iseossi.mp4
 #EXTINF:0 tvg-logo=""group-title="Filmes",Maria e João e o conto das Bruxas
 http://fly.cupefly.club/bucket/mariaejoao.mp4
