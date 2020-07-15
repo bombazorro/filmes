@@ -718,3 +718,5 @@ plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/755738
 #EXTINF:-1,Xxx: Ondemand 24
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/755739
+#EXTINF:-1,Xxx: teste
+http://207.180.238.75/iframe/?link=https://player.ec.cx/player3/canaishlb.php?canal=nick
