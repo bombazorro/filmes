@@ -18,8 +18,6 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklis
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png"group-title="Canais",Discoverykids
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Canais",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Canais",Discovery Kids FHD
@@ -30,7 +28,7 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", ESPN
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/fox.smil/chunklist_b528441_sleng.m3u8
+https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/combate.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",Fox hd
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1431167_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Canais",Fox Premium 1 HD
