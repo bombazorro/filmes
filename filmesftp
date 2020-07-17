@@ -278,7 +278,7 @@ http://207.180.238.75/iframe/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/iframe/?link=https://player.ec.cx/player3/canaishlb.php?canal=cartoon&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png"group-title="Canais Big",Cinemax
 http://207.180.238.75/iframe/?link=https://player.ec.cx/player3/canaishlb.php?canal=cinemax
-#EXTINF:-1 tvg-logo=""Canais Big",Comedy Central
+#EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"Canais Big",Comedy Central
 http://207.180.238.75/iframe/?link=https://player.ec.cx/player3/canaishlb.php?canal=comedycentral&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Big",Discovery Channel
 http://207.180.238.75/iframe/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
