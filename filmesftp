@@ -18,7 +18,7 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklis
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:0 tvg-logo=""group-title="Canais",Discoverykids
+#EXTINF:0 tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png"group-title="Canais",Discoverykids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Canais",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
