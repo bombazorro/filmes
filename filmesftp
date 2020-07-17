@@ -22,7 +22,6 @@ https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Canais",Discovery Kids FHD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Disnel Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", ESPN
@@ -48,8 +47,6 @@ https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w885577883.m3u8
 
 #EXTINF:0 tvg-logo=""group-title="Filmes",O alto da Compadecida
 http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4
-#EXTINF:0 tvg-logo="https://i.imgur.com/wKFtVir.jpg"group-title="Filmes",Resgate
-https://svr3.cloudplayer.online/link/GFDGmMaCTQBZCyV/720/3af758700a51fb75c537edf2f5887429/
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg"group-title="Filmes",De Volta Pro Futuro 1
 http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/BackFuture2Poster.jpg"group-title="Filmes",De Volta Pro Futuro 2
