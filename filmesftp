@@ -10,21 +10,21 @@ http://fly.cupefly.club/bucket/badboysparasempre.mp4
 http://fly.cupefly.club/bucket/iseossi.mp4
 #EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filmes",Maria e João e o conto das Bruxas
 http://fly.cupefly.club/bucket/mariaejoao.mp4
+
+CANAIS OI
+#EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:0 tvg-logo=""group-title="Canais",Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:0 tvg-logo=""group-title="Canais",AAAAAAAAAAA
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:0 tvg-logo=""group-title="Canais",TNT series
-https://stream.ec.cx/a/hls1/tntseries.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
+#EXTINF:0 tvg-logo=""group-title="Canais",Discoverykids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Canais",Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
-
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Canais",Discovery Kids FHD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
 
-#EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Disnel Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", ESPN
@@ -51,6 +51,8 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b664685_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",SBT
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w885577883.m3u8
+#EXTINF:0 tvg-logo=""group-title="Canais",TNT series
+https://stream.ec.cx/a/hls1/tntseries.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",Sobreviva a noite
 http://195.154.184.17/%5bWWW.BLUDV.TV%5d%20Sobreviva%20a%20Noite%202019%20(720p%20-%20BluRay)%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Sobreviva.a.Noite.2019.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4
