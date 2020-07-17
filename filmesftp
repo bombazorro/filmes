@@ -10,14 +10,9 @@ http://fly.cupefly.club/bucket/badboysparasempre.mp4
 http://fly.cupefly.club/bucket/iseossi.mp4
 #EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filmes",Maria e João e o conto das Bruxas
 http://fly.cupefly.club/bucket/mariaejoao.mp4
-#EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:0 tvg-logo=""group-title="Canais",Discovery Turbo
-http://proxyts2.ec.cx:8083/hls1/discoveryturbo.m3u8
-#EXTINF:0 tvg-logo=""group-title="Canais",Discovery Channel
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",AAAAAAAAAAA
-http://192.95.30.205:8080/live/xf55Sf5muftaZc/sudhxIXptLjD/142.m3u8
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:0 tvg-logo=""group-title="Canais",TNT series
 https://stream.ec.cx/a/hls1/tntseries.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Discovery Channel
@@ -28,6 +23,8 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunkli
 #EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Canais",Discovery Kids FHD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
 
+#EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Disnel Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", ESPN
