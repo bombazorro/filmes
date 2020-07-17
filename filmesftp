@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/zuui6pN.jpg"group-title="Filmes",A Maldição da Sereia
-http://ustream.pw/hls/8fbaf39648d8d780e0252709d12185f3.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filmes",365 dias com ela
 http://fly.cupefly.club/bucket/365dias.mp4
 #EXTINF:0 tvg-logo=""group-title="Filmes",Missy a Errada
