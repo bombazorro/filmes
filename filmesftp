@@ -54,6 +54,8 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Network
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cartoon&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Networ
+https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595144226&token=56cbc9b2b0eb54d398a0ea4aca8eef99
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png"group-title="Canais Big",Cinemax
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cinemax
 #EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"Canais Big",Comedy Central
