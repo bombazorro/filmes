@@ -49,7 +49,7 @@ https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w885577883.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=animalplanet&http=&vid=&rc=1
+https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595212568&token=34f8af6af00f715698933e7f8e4d8b3a
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Big",Boomerang
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Network
