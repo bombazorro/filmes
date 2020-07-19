@@ -63,7 +63,8 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Big",Discovery Channel
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
 #EXTINF:-1 tvg-logo=""Canais mag00",discovery Kids
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discoverykids
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=Disney xd
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Big",Discovery Turbo
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discoveryturbo&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais Big",Fox Life
@@ -970,6 +971,7 @@ http://webtvcde.com/Filmes/Dublados/Bicho/O%20Bicho%20Vai%20Pegar%203.mp4
 http://webtvcde.com/Filmes/Dublados/Big.Pai.Big.Filho.2018.mkv
 #EXTINF:-1 group-title="Desenhos",CHRISTOPHER ROBIN: UM REENCONTRO INESQUECIVEL
 http://webtvcde.com/Filmes/Dublados/Christopher.Robin.Um.Reencontro.Inesquecivel.mkv
+Ana
 #EXTINF:-1 group-title="Filme",DEADPOOL 2
 http://webtvcde.com/Filmes/Dublados/Deadpool2.mkv
 #EXTINF:-1 group-title="Filme",ESQUADRÃO SUICIDA
