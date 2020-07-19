@@ -64,6 +64,8 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
 #EXTINF:-1 tvg-logo=""Canais mag00",discovery Kids
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=Dicovery kid
+#EXTINF:-1 tvg-logo=""Canais big",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""Canais mag00",Disney xd
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Big",Discovery Turbo
