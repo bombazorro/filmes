@@ -18,7 +18,9 @@ http://fly.cupefly.club/bucket/mariaejoao.mp4
 CANASI BIG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
 https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595212568&token=34f8af6af00f715698933e7f8e4d8b3a
-#EXTINF:-1 tvg-logo=""group-title="Canais Big",Bandeirante Oi
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w1229371975.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Bandeirante Oi
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Big",Boomerang
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
