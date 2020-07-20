@@ -72,6 +72,8 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=sportv&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo=""Canais Big",Telecine Pipoca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=telecinepipoca
+#EXTINF:-1 tvg-logo=""Canais Big",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8? 
 #EXTINF:-1 tvg-logo=""Canais Big",Studio Universal
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=studiouniversal&http=&vid=&rc=1
 
