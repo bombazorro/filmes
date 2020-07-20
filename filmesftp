@@ -15,6 +15,67 @@ http://fly.cupefly.club/bucket/iseossi.mp4
 #EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filme",Maria e João e o conto das Bruxas
 http://fly.cupefly.club/bucket/mariaejoao.mp4
 
+CANASI BIG
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
+https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595212568&token=34f8af6af00f715698933e7f8e4d8b3a
+#EXTINF:-1 tvg-logo=""group-title="Canais Big",Bandeirante Oi
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Big",Boomerang
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Network
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cartoon&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Networ
+https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595144226&token=56cbc9b2b0eb54d398a0ea4aca8eef99
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png"group-title="Canais Big",Cinemax
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cinemax
+#EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"Canais Big",Comedy Central
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=comedycentral&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Big",Discovery Channel
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
+#EXTINF:-1 tvg-logo=""Canais mag00",discovery Kids
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=Dicovery kid
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"Canais Big",Disney Junior
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sQSxcnd.png"Canais Big",Disney Channel
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"Canais Big",Disney xd
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Big",Discovery Turbo
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discoveryturbo&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais Big",Fox Life
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=foxlife&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Big",Fox Sports
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=foxsportv1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Investigação Discovery
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=investigacaodiscovery&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Disney Channel 
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",ESPN Brasil 
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=""group-title="Canais Big",Multishow
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=multishow&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Big",Nick Jr.
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=nick
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png"group-title="Canais Big",Nickelodeon
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=nickelodeon&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boborj&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo nordeste
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=bobonordeste&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=bobo&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Big",History
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=history&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Big",History 2
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=history2&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo=""Canais Big",Sportv
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=sportv&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo=""Canais Big",Telecine Pipoca
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=telecinepipoca
+#EXTINF:-1 tvg-logo=""Canais Big",Studio Universal
+http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=studiouniversal&http=&vid=&rc=1
+
+
 CANAIS OI
 #EXTINF:0 tvg-logo=""group-title="Canais",Bandeirantes
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/bandeirantes.smil/chunklist_b1101581_sleng.m3u8
@@ -52,58 +113,8 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist
 https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w885577883.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
-https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595212568&token=34f8af6af00f715698933e7f8e4d8b3a
-#EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Big",Boomerang
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Network
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cartoon&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Networ
-https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595144226&token=56cbc9b2b0eb54d398a0ea4aca8eef99
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png"group-title="Canais Big",Cinemax
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cinemax
-#EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"Canais Big",Comedy Central
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=comedycentral&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Big",Discovery Channel
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
-#EXTINF:-1 tvg-logo=""Canais mag00",discovery Kids
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=Dicovery kid
-#EXTINF:-1 tvg-logo=""Canais big",Disney Junior
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""Canais mag00",Disney xd
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Big",Discovery Turbo
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discoveryturbo&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais Big",Fox Life
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=foxlife&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Big",Fox Sports
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=foxsportv1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Investigação Discovery
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=investigacaodiscovery&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Disney Channel 
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Big",Multishow
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=multishow&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais mag00",Nick Jr.
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=nick
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png"group-title="Canais mag00",Nickelodeon
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=nickelodeon&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boborj&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo nordeste
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=bobonordeste&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=bobo&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Big",History
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=history&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Big",History 2
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=history2&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo=""Canais Big",Sportv
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=sportv&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo=""Canais Big",Telecine Pipoca
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=telecinepipoca
-#EXTINF:-1 tvg-logo=""Canais Big",Studio Universal
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=studiouniversal&http=&vid=&rc=1
+
+
 
 
 https://p.netcine.info/players/desktop37-pc.php?n=NOBALACODASCOISASDUB&p=filmes2020
@@ -307,6 +318,8 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4252
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4253
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png"group-title="Canais mag00",Nickelodeon
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4254
+#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png"group-title="Canais mag00",Nickelodeon Oi
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/yScrn6s.pn"group-title="Canais mag00",Paramount Channel
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/4255
 #EXTINF:-1 tvg-logo="http://i.imgur.com/8d0cM31.png"group-title="Canais mag00",Premiere
