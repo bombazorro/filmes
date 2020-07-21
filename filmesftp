@@ -70,40 +70,17 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 
 
 CANAIS OI
-#EXTINF:-1 type="stream" tvg-id="Discovery Kids" tvg-logo="https://i.ibb.co/bJnfyPZ/discoverykids.png" group-title="Canais",Discovery Kids
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1 type="stream" tvg-id="Discovery Kids FHD" tvg-logo="https://i.ibb.co/R0QGz7q/discoverykidshd.png" group-title="Canais",Discovery Kids FHD
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/chunklist_b664685_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Disnel Channel
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", ESPN
-https://live-orig-oiplay.online.go.oi.com.br:443/live-cdn/espn.smil/chunklist_b528441_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",Fox hd
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxhd.smil/chunklist_b1431167_sleng.m3u8
-#EXTINF:-1 type="stream" tvg-id="Fox Premium 1 HD" tvg-logo="https://i.ibb.co/XJL7R7d/foxpremium1b.png" group-title="Canais",Fox Premium 1 HD
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxpremium1hd.smil/chunklist_b1101581_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fox Sport
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/foxsports.smil/chunklist_b1431167_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Fx
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/fx.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",MTV
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/mtv.smil/chunklist_b528441_sleng.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Multishow2
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-#EXTINF:-1 type="stream" tvg-id="Nickelodeon" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b1101581_sleng.m3u8
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon HD
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/nickelodeon.smil/chunklist_b664685_sleng.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais",SBT
-https://5a1c76baf08c0.streamlock.net/z343-live/z343/chunklist_w885577883.m3u8
 
 
-
-
-
-
+Filmes
 https://p.netcine.info/players/desktop37-pc.php?n=NOBALACODASCOISASDUB&p=filmes2020
 #EXTINF:0 tvg-logo=""group-title="Filme",O alto da Compadecida
 http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4
@@ -113,8 +90,6 @@ http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
 http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg"group-title="Filme",De Volta Pro Futuro 3
 http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
-
-Filmes
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filme",365 dias com ela
 http://fly.cupefly.club/bucket/365dias.mp4
 #EXTINF:-1 tvg-logo=""Filme",No balanço das coisas
@@ -479,14 +454,8 @@ https://baixarapp.org/mp4.php?a=clarencio-o-otimista&e=50
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",*** XXX ***
-http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6925
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Penthouse Quickies
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/49363
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",XX: Movixx Marc Dorcel
-http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6928
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",XX: Movixx Laure Sainclair
-http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6929
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Balkan Erotic
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6938
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Bangerz HD
@@ -495,11 +464,11 @@ http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6939
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6940
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Blue Hustler
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6941
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Brazzers TV Europe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Sexy Hot
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6942
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Brazzers TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Sextreme
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6943
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Brazzers
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Venus
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6944
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",DUSK!
 http://disback.dyndns.tv:8000/mag00:1A:79:41:78:C1/X3yyOOF7A6/6945
