@@ -1,20 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filme",365 dias com ela
-http://fly.cupefly.club/bucket/365dias.mp4
-#EXTINF:-1 tvg-logo=""Filme",No balanço das coisas
-https://cdn.netcine.info/html/content/conteudolb4/filmes2020/NOBALACODASCOISASDUB-BAIXO.mp4?token=ZOubW3-B13UEngqUqGcLbw&expires=1595220331&ip=177.72.25.85
-#EXTINF:-1 tvg-logo=""Filme",Magnatas do crime
-https://streamtape.com/get_video?id=eA0JJ7mYGmIY6W8&expires=1595265686&ip=F0qTKRETKxSHDN&token=JXKhi_GQcZmm&stream=1
-#EXTINF:0 tvg-logo=""group-title="Filme",Missy a Errada
-http://fly.cupefly.club/bucket/amissyerrada.mp4
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XbDvqr6oL._AC_SX569_.jpg"group-title="Filme",Bad Boys para sempre
-http://fly.cupefly.club/bucket/badboysparasempre.mp4
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/pS7PugbKxQM/hqdefault.jpg"group-title="Filme",Isi & Ossi
-http://fly.cupefly.club/bucket/iseossi.mp4
-#EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filme",Maria e João e o conto das Bruxas
-http://fly.cupefly.club/bucket/mariaejoao.mp4
-
 CANASI BIG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
 
@@ -22,6 +7,8 @@ CANASI BIG
 https://stream.ec.cx/hls1/band.m3u8?expires=1593815447&token=2e70e59fe1e54c23a5cd66fbd4f6db52
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Bandeirante Oi
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band Sports
+http://viptv2.dyndns.tv:25461/A81905E6C344/A81905E6C344/46
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Big",Boomerang
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Network
@@ -133,7 +120,21 @@ http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg"group-title="Filme",De Volta Pro Futuro 3
 http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
 
-
+Filmes
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filme",365 dias com ela
+http://fly.cupefly.club/bucket/365dias.mp4
+#EXTINF:-1 tvg-logo=""Filme",No balanço das coisas
+https://cdn.netcine.info/html/content/conteudolb4/filmes2020/NOBALACODASCOISASDUB-BAIXO.mp4?token=ZOubW3-B13UEngqUqGcLbw&expires=1595220331&ip=177.72.25.85
+#EXTINF:-1 tvg-logo=""Filme",Magnatas do crime
+https://streamtape.com/get_video?id=eA0JJ7mYGmIY6W8&expires=1595265686&ip=F0qTKRETKxSHDN&token=JXKhi_GQcZmm&stream=1
+#EXTINF:0 tvg-logo=""group-title="Filme",Missy a Errada
+http://fly.cupefly.club/bucket/amissyerrada.mp4
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XbDvqr6oL._AC_SX569_.jpg"group-title="Filme",Bad Boys para sempre
+http://fly.cupefly.club/bucket/badboysparasempre.mp4
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/pS7PugbKxQM/hqdefault.jpg"group-title="Filme",Isi & Ossi
+http://fly.cupefly.club/bucket/iseossi.mp4
+#EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filme",Maria e João e o conto das Bruxas
+http://fly.cupefly.club/bucket/mariaejoao.mp4
 #EXTINF:-1 tvg-logo=""Filme",No balanço das coisas
 #EXTINF:0 tvg-logo="https://imgur.com/t/101_dalmatians/x6DEBXy"group-title="Desenhos",101 Dalmatas
 http://144.217.77.29/Pack%202%20-%20Anima%c3%a7%c3%b5es%20Dubladas%20%5bwww.supercine-anarquia.blogspot.com%5d/101%20D%c3%a1lmatas%20(1996).mp4
