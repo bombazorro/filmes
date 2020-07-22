@@ -23,6 +23,8 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"Canais mag00",discovery Kids
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=Dicovery kid
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Disney Channel 
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"Canais Big",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sQSxcnd.png"Canais Big",Disney Channel
@@ -31,16 +33,16 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Big",Discovery Turbo
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discoveryturbo&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",ESPN Brasil 
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",ESPN Brasil 
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais Big",Fox Life
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=foxlife&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Big",Fox Sports
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=foxsportv1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Investigação Discovery
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=investigacaodiscovery&http=&vid=&rc=1
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Big",Disney Channel 
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",ESPN Brasil 
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-logo=""group-title="Canais Big",Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Big",Nick Jr.
