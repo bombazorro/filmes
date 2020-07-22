@@ -49,6 +49,8 @@ https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZj
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=nick
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png"group-title="Canais Big",Nickelodeon
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=nickelodeon&http=&vid=&rc=1
+#EXTINF:-1 tvg-logo="http://iv.pe/QFa"group-title="Canais Big",Record
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Big",TV Globo nordeste
