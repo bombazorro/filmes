@@ -21,7 +21,7 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=comedycentral&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Big",Discovery Channel
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
-#EXTINF:-1 tvg-logo=""Canais mag00",discovery Kids
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"Canais mag00",discovery Kids
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=Dicovery kid
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"Canais Big",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
