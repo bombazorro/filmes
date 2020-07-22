@@ -4,20 +4,18 @@ CANASI BIG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Bandeirante Oi
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band Sports
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Big",Boomerang
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=boomerang&http=&vid=&rc=1
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Network
-http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cartoon&http=&vid=&rc=1
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Big",Cartoon Networ
-https://stream.ec.cx/a/hls1/cartoon.m3u8?expires=1595144226&token=56cbc9b2b0eb54d398a0ea4aca8eef99
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png"group-title="Canais Big",Cinemax
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=cinemax
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nlGx2t1.png"group-title="Canais Big",Cinemax teste
-https://stream.ec.cx/a/hls1/cinemax.m3u8?expires=1595241098&token=522255cead571edc20fdcd672131fd7c
-#EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"Canais Big",Comedy Central
+#EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"group-title="Canais Big",Comedy Central
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=comedycentral&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Big",Discovery Channel
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=discovery
