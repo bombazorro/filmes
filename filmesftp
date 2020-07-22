@@ -75,6 +75,8 @@ http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?ca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=telecinepipoca
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/telecine-pipoca.png"group-title="Canais Big",Telecine Pipoca
 https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8
+#EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/telecine-touch.png"group-title="Canais Big",Telecine Touch
+http://51.161.119.169:25461/w7RmauiQJus7tt/iKBurz7xHCjP/297?token=QhANVRFYGgxEDVZSAVJRVFFTAQdRB1EABlZRBgUDAQELAAdVVlNdVAMbGRZKRxMEVlg8XgUXCVNcXUgRQRZXF2ZbARZYEgkUShtBXVRWQ1sGAFoCVQAKUFNRSBFEDFZHAxBXDVQGABRKG1BMTVYTD1ZZPFMEQ1oCAEZeXUEJXkkbXQtrBlVVVwhdFw4bA0NNFVwQR0MPXRQJCEgRVgxGF1hGABZYEgEAVBsZFlpcFA9DRxoVWxdxM0dIRlZMEVcLSlsKWkAKGkIVGxkWUEA+E1JGF0UEVF4EF0ZeEQRHHkdUUx1rAV9WWANaQV1WXRJDDRdTFU0XXg4LDRBcRjpCDF0QXxZQAgEBVRtI
 #EXTINF:-1 tvg-logo=""group-title="Canais Big",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/43185_gazeta-largura.jpg"group-title="Canais Big",TV Gazeta
