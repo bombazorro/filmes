@@ -2,7 +2,7 @@
 
 CANASI BIG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
+https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Bandeirante Oi
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band Sports
@@ -65,6 +65,8 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=sportv&http=&vid=&rc=1
 #EXTINF:-1 tvg-logo=""group-title="Canais Big",Telecine Pipoca
 http://207.180.238.75/canais/?link=https://player.ec.cx/player3/canaishlb.php?canal=telecinepipoca
+#EXTINF:-1 tvg-logo=""group-title="Canais Big",Telecine Pipoca
+https://geralorigin.eu-central-1.edge.mycdn.live/live/telecinepipocahd/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Big",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/43185_gazeta-largura.jpg"group-title="Canais Big",TV Gazeta
