@@ -3,6 +3,8 @@
 CANASI BIG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
 https://geralorigin.eu-central-1.edge.mycdn.live/live/animalplanethd/video.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
+https://extedge.eu-central-1.edge.mycdn.live/live/animalplanethd/2020/07/22/16/38/51-05000.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Bandeirante Oi
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band Sports
