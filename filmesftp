@@ -4,7 +4,7 @@ CANASI BIG
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Big",Animal Planet
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band
-https://stream.ec.cx/hls1/band.m3u8?expires=1593815447&token=2e70e59fe1e54c23a5cd66fbd4f6db52
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Bandeirante Oi
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Big",Band Sports
