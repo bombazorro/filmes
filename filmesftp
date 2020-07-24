@@ -191,6 +191,8 @@ http://23.237.78.82:30010/streams/123_.m3u8
 http://23.237.78.82:30010/streams/114_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History
 http://23.237.78.82:30010/streams/115_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais",History 2
+http://23.237.78.82:30010/streams/223_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais",Investigação Discovery
 http://23.237.78.82:30010/streams/116_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ed2TyT/Lifetime.png"group-title="Canais",Lifetime
@@ -328,6 +330,8 @@ http://23.237.78.82:30010/streams/202_.m3u8
 http://23.237.78.82:30010/streams/6_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais",TNT Series HD
 http://23.237.78.82:30010/streams/176_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ks0WgJ/Tooncast.png"group-title="Canais",Tooncast
+http://23.237.78.82:30010/streams/222_.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais",TV Aparecida
