@@ -97,10 +97,8 @@ http://23.237.78.82:30010/streams/155_.m3u8
 http://23.237.78.82:30010/streams/51_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais",ESPN HD
 http://23.237.78.82:30010/streams/52_.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN Brasil 
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais",ESPN Brasil 
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN Extra
@@ -109,15 +107,20 @@ http://23.237.78.82:30010/streams/50_.m3u8
 http://23.237.78.82:30010/streams/109_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/c5ghoy/Food_Network_HD.png"group-title="Canais",Food HD
 http://23.237.78.82:30010/streams/110_.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais",Fox Channel
 http://23.237.78.82:30010/streams/161_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais",Fox Channel HD
 http://23.237.78.82:30010/streams/162_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fMzWxJ/Fox_Life_HD.png"group-title="Canais",Fox Life
-http://23.237.78.82:30010/streams/161_.m3u8
+http://23.237.78.82:30010/streams/164_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais",Fox Premium 1
+http://23.237.78.82:30010/streams/165_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais",Fox Premium 1 HD
+http://23.237.78.82:30010/streams/166_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais",Fox Premium 2
+http://23.237.78.82:30010/streams/167_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais",Fox Premium 2 HD
+http://23.237.78.82:30010/streams/168_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports HD
 http://23.237.78.82:30010/streams/55_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports SD
@@ -136,8 +139,6 @@ http://23.237.78.82:30010/streams/132_.m3u8
 http://23.237.78.82:30010/streams/133_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo nordeste
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 http://23.237.78.82:30010/streams/2_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais",Globo NEws
@@ -154,22 +155,22 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 http://23.237.78.82:30010/streams/150_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais",HGTV HD
 http://23.237.78.82:30010/streams/123_.m3u8
-
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History
 http://23.237.78.82:30010/streams/114_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History
 http://23.237.78.82:30010/streams/115_.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History 2
-
-
-
 #EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais",HBO Xtreme
 http://23.237.78.82:30010/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais",Investigação Discovery
 http://23.237.78.82:30010/streams/116_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ed2TyT/Lifetime.png"group-title="Canais",Lifetime
+http://23.237.78.82:30010/streams/169_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Like Series
+http://23.237.78.82:30010/streams/170_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais",Mais Globalsat
 http://23.237.78.82:30010/streams/151_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais",Megapix
+http://23.237.78.82:30010/streams/171_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
 http://23.237.78.82:30010/streams/141_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
