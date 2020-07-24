@@ -5,9 +5,9 @@ CANASI BIG
 http://23.237.78.82:30010/streams/2_.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais",Animal Planet
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais",Animal Planet
-
+http://23.237.78.82:30010/streams/98_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais",Animal Planet HD
+http://23.237.78.82:30010/streams/99_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
 http://23.237.78.82:30010/streams/10_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
@@ -17,6 +17,8 @@ http://23.237.78.82:30010/streams/14_.m3u8
 http://23.237.78.82:30010/streams/46_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports SD
 http://23.237.78.82:30010/streams/47_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Band News
+http://23.237.78.82:30010/streams/85_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",BIS
 http://23.237.78.82:30010/streams/140_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais",Boomerang
