@@ -139,6 +139,8 @@ http://23.237.78.82:30010/streams/23_.m3u8
 http://23.237.78.82:30010/streams/25_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais", Globo Oi
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png" group-title="Canais",GNT HD
+http://23.237.78.82:30010/streams/150_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais",HGTV HD
 http://23.237.78.82:30010/streams/123_.m3u8
 
@@ -155,6 +157,8 @@ http://23.237.78.82:30010/streams/115_.m3u8
 http://23.237.78.82:30010/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais",Investigação Discovery
 http://23.237.78.82:30010/streams/116_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais",Mais Globalsat
+http://23.237.78.82:30010/streams/151_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
 http://23.237.78.82:30010/streams/141_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
