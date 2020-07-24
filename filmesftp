@@ -161,18 +161,30 @@ http://23.237.78.82:30010/streams/185_.m3u8
 http://23.237.78.82:30010/streams/187_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais",HBO 2
 http://23.237.78.82:30010/streams/188_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dtN0ad/HBO_Family_HD.png"group-title="Canais",HBO Family
+http://23.237.78.82:30010/streams/193_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dtN0ad/HBO_Family_HD.png"group-title="Canais",HBO Family
+http://23.237.78.82:30010/streams/194_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais",HBO Mundi
+http://23.237.78.82:30010/streams/195_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais",HBO Mundi HD
+http://23.237.78.82:30010/streams/196_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO POP
 http://23.237.78.82:30010/streams/183_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO PLUS
 http://23.237.78.82:30010/streams/190_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais",HBO Signature
+http://23.237.78.82:30010/streams/191_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais",HBO Signature HD
+http://23.237.78.82:30010/streams/192_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais",HBO Xtreme
+http://23.237.78.82:30010/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais",HGTV HD
 http://23.237.78.82:30010/streams/123_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History
 http://23.237.78.82:30010/streams/114_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History
 http://23.237.78.82:30010/streams/115_.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais",HBO Xtreme
-http://23.237.78.82:30010/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais",Investigação Discovery
 http://23.237.78.82:30010/streams/116_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ed2TyT/Lifetime.png"group-title="Canais",Lifetime
