@@ -32,6 +32,9 @@ http://23.237.78.82:30010/streams/16_.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"group-title="Canais",Comedy Central
 
+#EXTINF:-1 tvg-logo=""group-title="Canais",Curta
+http://23.237.78.82:30010/streams/20_.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel
 
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"Canais mag00",discovery Kids
@@ -60,6 +63,8 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 http://23.237.78.82:30010/streams/2_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo RBS RS
+http://23.237.78.82:30010/streams/22_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",HBO Xtreme
 http://23.237.78.82:30010/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Globo Oi
