@@ -164,16 +164,14 @@ http://23.237.78.82:30010/streams/116_.m3u8
 
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/multishow.png"group-title="Canais",Multishow
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais",Nick Jr.
-https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/ZjLSLiY.png"group-title="Canais",Nickelodeon
-http://23.237.78.82:30010/streams/135_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",MTV
 http://23.237.78.82:30010/streams/141_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",MTV
+http://23.237.78.82:30010/streams/142_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Multishow2
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-
-#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon HD
+#EXTINF:-1 tvg-logo=""group-title="Canais",Multishow
+http://23.237.78.82:30010/streams/143_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",NatGeo
 http://23.237.78.82:30010/streams/117_.m3u8
@@ -183,7 +181,11 @@ http://23.237.78.82:30010/streams/118_.m3u8
 http://23.237.78.82:30010/streams/119_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",NatGeo Wild
 http://23.237.78.82:30010/streams/120_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Nick Jr
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon HD
+http://23.237.78.82:30010/streams/135_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais",Nick Jr.
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais",Nick Jr
 http://23.237.78.82:30010/streams/139_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",OFFhd
@@ -191,12 +193,10 @@ http://23.237.78.82:30010/streams/59_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Polishop
 http://23.237.78.82:30010/streams/10_.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere Clubes
 http://23.237.78.82:30010/streams/61_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere Clubes HD
 http://23.237.78.82:30010/streams/62_.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 2
 http://23.237.78.82:30010/streams/63_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 2 HD
@@ -209,25 +209,9 @@ http://23.237.78.82:30010/streams/66_.m3u8
 http://23.237.78.82:30010/streams/67_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 4 HD
 http://23.237.78.82:30010/streams/68._m3u8
-
-
-#EXTINF:-1 tvg-logo="http://iv.pe/QFa"group-title="Canais",Record
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",SBT
-http://23.237.78.82:30010/streams/1_.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv HD
-http://23.237.78.82:30010/streams/70_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv SD
-http://23.237.78.82:30010/streams/71_.m3u8
-
-
-#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv 2 HD
-http://23.237.78.82:30010/streams/72_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv 2
-http://23.237.78.82:30010/streams/73_.m3u8
-
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 5
+
+
 
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
@@ -235,7 +219,6 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 http://23.237.78.82:30010/streams/29_.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record HD
 http://23.237.78.82:30010/streams/30_.m3u8
-
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/redetv.png"group-title="Canais",Redetv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/redetv.png"group-title="Canais",Redetv HD
@@ -244,12 +227,22 @@ http://23.237.78.82:30010/streams/33_.m3u8
 http://23.237.78.82:30010/streams/34_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Rede Vida HD
 http://23.237.78.82:30010/streams/35_.m3u8
-
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais",SBT
 http://23.237.78.82:30010/streams/37_.m3u8
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais",SBT
+http://23.237.78.82:30010/streams/1_.m3u8
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sportv2.png"group-title="Canais",Sportv
 #EXTINF:-1 tvg-logo=""group-title="Canais",Sport Center
 http://23.237.78.82:30010/streams/53_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv HD
+http://23.237.78.82:30010/streams/70_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv SD
+http://23.237.78.82:30010/streams/71_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv 2 HD
+http://23.237.78.82:30010/streams/72_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv 2
+http://23.237.78.82:30010/streams/73_.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/telecine-pipoca.png"group-title="Canais",Telecine Pipoca
 
