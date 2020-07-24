@@ -65,6 +65,11 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 http://23.237.78.82:30010/streams/2_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo RBS RS
 http://23.237.78.82:30010/streams/22_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo Vanguarda
+http://23.237.78.82:30010/streams/23_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo Vanguarda HD
+http://23.237.78.82:30010/streams/25_.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Canais",HBO Xtreme
 http://23.237.78.82:30010/streams/7_.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Globo Oi
@@ -101,8 +106,17 @@ http://23.237.78.82:30010/streams/1_.m3u8
 
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
+http://23.237.78.82:30010/streams/29_.m3u8
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record HD
+http://23.237.78.82:30010/streams/30_.m3u8
+
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/redetv.png"group-title="Canais",Redetv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/redetv.png"group-title="Canais",Redetv HD
+http://23.237.78.82:30010/streams/33_.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais",SBT
 
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sportv2.png"group-title="Canais",Sportv
