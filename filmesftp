@@ -83,17 +83,17 @@ http://23.237.78.82:30010/streams/130_.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"Canais",Disney xd
 http://23.237.78.82:30010/streams/131_.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/b99Dvd/ESPN.png"group-title="Canais",ESPN
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN
 http://23.237.78.82:30010/streams/51_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais",ESPN HD
 http://23.237.78.82:30010/streams/52_.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/b99Dvd/ESPN.png"group-title="Canais",ESPN Brasil 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN Brasil 
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais",ESPN Brasil 
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN Extra
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN Extra
 http://23.237.78.82:30010/streams/50_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fxYv8y/Fish_TV.png"Canais mag00",Fish HD
 http://23.237.78.82:30010/streams/109_.m3u8
@@ -125,7 +125,7 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 http://23.237.78.82:30010/streams/2_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Globo NEws
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais",Globo NEws
 http://23.237.78.82:30010/streams/84_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo RBS RS
 http://23.237.78.82:30010/streams/22_.m3u8
@@ -133,6 +133,8 @@ http://23.237.78.82:30010/streams/22_.m3u8
 http://23.237.78.82:30010/streams/23_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo Vanguarda HD
 http://23.237.78.82:30010/streams/25_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais", Globo Oi
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo=""Canais mag00",HGTV HD
 http://23.237.78.82:30010/streams/123_.m3u8
 
@@ -145,22 +147,19 @@ http://23.237.78.82:30010/streams/115_.m3u8
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="Canais",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais",HBO Xtreme
 http://23.237.78.82:30010/streams/7_.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canais", Globo Oi
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais",Investigação Discovery
 http://23.237.78.82:30010/streams/116_.m3u8
-
-#EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/multishow.png"group-title="Canais",Multishow
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",MTV
 http://23.237.78.82:30010/streams/141_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",MTV
 http://23.237.78.82:30010/streams/142_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Multishow2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais",Multishow
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais",Multishow2
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Multishow
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais",Multishow
 http://23.237.78.82:30010/streams/143_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",NatGeo
