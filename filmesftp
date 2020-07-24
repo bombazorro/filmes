@@ -171,6 +171,8 @@ http://23.237.78.82:30010/streams/195_.m3u8
 http://23.237.78.82:30010/streams/196_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO POP
 http://23.237.78.82:30010/streams/183_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO POP HD
+http://23.237.78.82:30010/streams/198_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO PLUS
 http://23.237.78.82:30010/streams/190_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais",HBO Signature
@@ -271,6 +273,8 @@ http://23.237.78.82:30010/streams/1_.m3u8
 http://23.237.78.82:30010/streams/159_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/c15Q8y/Sony.png"group-title="Canais",Sony
 http://23.237.78.82:30010/streams/160_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bNjJTy/Space.png"group-title="Canais",Space
+http://23.237.78.82:30010/streams/200_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais",Sportv
 #EXTINF:-1 tvg-logo=""group-title="Canais",Sport Center
 http://23.237.78.82:30010/streams/53_.m3u8
@@ -294,11 +298,24 @@ http://23.237.78.82:30010/streams/175_.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mqZP1J/Telecine_Touch.png"group-title="Canais",Telecine Touch
 
-#EXTINF:-1 tvg-logo=""group-title="Canais",TLC HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais",TLC HD
 http://23.237.78.82:30010/streams/122_.m3u8
-
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jKRMgJ/TCM.png"group-title="Canais",TCM HD
+http://23.237.78.82:30010/streams/201_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais",Telecine Pipoca
+http://23.237.78.82:30010/streams/203_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais",Telecine Pipoca HD
+http://23.237.78.82:30010/streams/207_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m99xa8/Telecine_Cult.png"group-title="Canais",Telecine Cult
+http://23.237.78.82:30010/streams/204_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ipFmFd/Telecine_Fun.png"group-title="Canais",Telecine Fun
+http://23.237.78.82:30010/streams/205_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ipFmFd/Telecine_Fun.png"group-title="Canais",Telecine Fun HD
+http://23.237.78.82:30010/streams/206_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais",TNT
 http://23.237.78.82:30010/streams/5_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais",TNT HD
+http://23.237.78.82:30010/streams/202_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais",TNT Series
 http://23.237.78.82:30010/streams/6_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais",TNT Series HD
