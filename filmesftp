@@ -46,9 +46,29 @@ http://23.237.78.82:30010/streams/48_.m3u8
 http://23.237.78.82:30010/streams/49_.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel SD
+http://23.237.78.82:30010/streams/102_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel HD
+http://23.237.78.82:30010/streams/103_.m3u8
 
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"Canais mag00",discovery Kids
+
+#EXTINF:-1 tvg-logo=""Canais mag00",discovery Teather SD
+http://23.237.78.82:30010/streams/104_.m3u8
+#EXTINF:-1 tvg-logo=""Canais mag00",discovery Teather HD
+http://23.237.78.82:30010/streams/105_.m3u8
+#EXTINF:-1 tvg-logo=""Canais mag00",discovery Turbo SD
+http://23.237.78.82:30010/streams/106_.m3u8
+#EXTINF:-1 tvg-logo=""Canais mag00",discovery Teather HD
+http://23.237.78.82:30010/streams/107_.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Canais",Discovery Home Health
+http://23.237.78.82:30010/streams/100_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Discovery Home Health HD
+http://23.237.78.82:30010/streams/101_.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais",Discovery Turbo
+
 
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/disney-channel.png"group-title="Canais",Disney Channel 
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
@@ -58,10 +78,6 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"Canais",Disney xd
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Discovery Home Health
-http://23.237.78.82:30010/streams/100_.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais",Discovery Turbo
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN
 http://23.237.78.82:30010/streams/51_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN HD
