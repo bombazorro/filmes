@@ -115,10 +115,13 @@ http://23.237.78.82:30010/streams/30_.m3u8
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/redetv.png"group-title="Canais",Redetv HD
 http://23.237.78.82:30010/streams/33_.m3u8
-
+#EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sm/redetv.png"group-title="Canais",Redetv FHD
+http://23.237.78.82:30010/streams/34_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Rede Vida HD
+http://23.237.78.82:30010/streams/35_.m3u8
 
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais",SBT
-
+http://23.237.78.82:30010/streams/37_.m3u8
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sportv2.png"group-title="Canais",Sportv
 
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/telecine-pipoca.png"group-title="Canais",Telecine Pipoca
@@ -133,6 +136,10 @@ http://23.237.78.82:30010/streams/5_.m3u8
 http://23.237.78.82:30010/streams/6_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",TV Aparecida
+http://23.237.78.82:30010/streams/38_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",TV Brasil Animada
+http://23.237.78.82:30010/streams/39_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",TV Cultura
 http://23.237.78.82:30010/streams/19_.m3u8
 
