@@ -5,6 +5,8 @@ CANASI BIG
 http://23.237.78.82:30010/streams/2_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b3MXoy/AMC.png"group-title="Canais",AMC HD
 http://23.237.78.82:30010/streams/158_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais",AXN HD
+http://23.237.78.82:30010/streams/181_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais",A&E
 http://23.237.78.82:30010/streams/157_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais",Animal Planet
@@ -151,8 +153,18 @@ http://23.237.78.82:30010/streams/23_.m3u8
 http://23.237.78.82:30010/streams/25_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais", Globo Oi
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png" group-title="Canais",GNT HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png"group-title="Canais",GNT HD
 http://23.237.78.82:30010/streams/150_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais",HBO
+http://23.237.78.82:30010/streams/185_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais",HBO 2
+http://23.237.78.82:30010/streams/187_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais",HBO 2
+http://23.237.78.82:30010/streams/188_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO POP
+http://23.237.78.82:30010/streams/183_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais",HBO PLUS
+http://23.237.78.82:30010/streams/190_.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais",HGTV HD
 http://23.237.78.82:30010/streams/123_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais",History
@@ -171,6 +183,8 @@ http://23.237.78.82:30010/streams/170_.m3u8
 http://23.237.78.82:30010/streams/151_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais",Megapix
 http://23.237.78.82:30010/streams/171_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais",Megapix HD
+http://23.237.78.82:30010/streams/182_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
 http://23.237.78.82:30010/streams/141_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
@@ -298,6 +312,8 @@ http://23.237.78.82:30010/streams/146_.m3u8
 http://23.237.78.82:30010/streams/153_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais",Warner
 http://23.237.78.82:30010/streams/179_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais",WB
+http://23.237.78.82:30010/streams/180_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",whowhoo
 http://23.237.78.82:30010/streams/154_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dfz6z8/ZooMoo.png"group-title="Canais",Zoom mo Kids
