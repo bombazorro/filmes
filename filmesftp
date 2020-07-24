@@ -111,8 +111,13 @@ http://23.237.78.82:30010/streams/109_.m3u8
 http://23.237.78.82:30010/streams/110_.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais",Fox Life
 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais",Fox Channel
+http://23.237.78.82:30010/streams/161_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais",Fox Channel HD
+http://23.237.78.82:30010/streams/162_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fMzWxJ/Fox_Life_HD.png"group-title="Canais",Fox Life
+http://23.237.78.82:30010/streams/161_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports HD
 http://23.237.78.82:30010/streams/55_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports SD
@@ -234,6 +239,10 @@ http://23.237.78.82:30010/streams/35_.m3u8
 http://23.237.78.82:30010/streams/37_.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais",SBT
 http://23.237.78.82:30010/streams/1_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c15Q8y/Sony.png"group-title="Canais",Sony
+http://23.237.78.82:30010/streams/159_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c15Q8y/Sony.png"group-title="Canais",Sony
+http://23.237.78.82:30010/streams/160_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais",Sportv
 #EXTINF:-1 tvg-logo=""group-title="Canais",Sport Center
 http://23.237.78.82:30010/streams/53_.m3u8
