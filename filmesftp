@@ -43,6 +43,8 @@ http://23.237.78.82:30010/streams/128_.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gdyOvd/Cinemax.png"group-title="Canais",Cinemax
 http://23.237.78.82:30010/streams/242_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Cine Sky1 capitao cueca
+http://23.237.78.82:30010/streams/248_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",CNN Brasil
 http://23.237.78.82:30010/streams/240_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais",Comedy Central SD
