@@ -78,6 +78,8 @@ http://23.237.78.82:30010/streams/55_.m3u8
 http://23.237.78.82:30010/streams/56_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports2
 http://23.237.78.82:30010/streams/57_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports2 hd
+http://23.237.78.82:30010/streams/58_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
@@ -111,11 +113,30 @@ https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Multishow2
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon HD
+#EXTINF:-1 tvg-logo=""group-title="Canais",OFFhd
+http://23.237.78.82:30010/streams/59_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Polishop
 http://23.237.78.82:30010/streams/10_.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere Clubes
+http://23.237.78.82:30010/streams/61_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere Clubes HD
+http://23.237.78.82:30010/streams/62_.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 2
+http://23.237.78.82:30010/streams/63_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 2 HD
+http://23.237.78.82:30010/streams/64_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 3 
+http://23.237.78.82:30010/streams/65_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 3 HD
+http://23.237.78.82:30010/streams/66_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 4
+http://23.237.78.82:30010/streams/67_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 4 HD
+http://23.237.78.82:30010/streams/68._m3u8
+
 
 #EXTINF:-1 tvg-logo="http://iv.pe/QFa"group-title="Canais",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
