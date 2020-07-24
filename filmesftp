@@ -143,6 +143,12 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",SBT
 http://23.237.78.82:30010/streams/1_.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv HD
+http://23.237.78.82:30010/streams/70_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sportv SD
+http://23.237.78.82:30010/streams/71_.m3u8
+
+
 #EXTINF:-1 tvg-logo=""group-title="Canais",Sportv 2
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 5
