@@ -135,6 +135,8 @@ http://23.237.78.82:30010/streams/58_.m3u8
 http://23.237.78.82:30010/streams/112_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais",FX SD
 http://23.237.78.82:30010/streams/113_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/h2wtvd/Gazeta.png"group-title="Canais",Gazeta
+http://23.237.78.82:30010/streams/220_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais",Gloob SD
 http://23.237.78.82:30010/streams/132_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais",Gloob HD
