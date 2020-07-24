@@ -306,12 +306,18 @@ http://23.237.78.82:30010/streams/201_.m3u8
 http://23.237.78.82:30010/streams/203_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais",Telecine Pipoca HD
 http://23.237.78.82:30010/streams/207_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais",Telecine Pipoca FHD
+http://23.237.78.82:30010/streams/208_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m99xa8/Telecine_Cult.png"group-title="Canais",Telecine Cult
 http://23.237.78.82:30010/streams/204_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ipFmFd/Telecine_Fun.png"group-title="Canais",Telecine Fun
 http://23.237.78.82:30010/streams/205_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ipFmFd/Telecine_Fun.png"group-title="Canais",Telecine Fun HD
 http://23.237.78.82:30010/streams/206_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dTScMJ/Telecine_Premium.png"group-title="Canais",Telecine Premium
+http://23.237.78.82:30010/streams/209_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dTScMJ/Telecine_Premium.png"group-title="Canais",Telecine Premium hd
+http://23.237.78.82:30010/streams/210_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais",TNT
 http://23.237.78.82:30010/streams/5_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais",TNT HD
