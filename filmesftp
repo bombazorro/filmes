@@ -200,6 +200,8 @@ https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
 http://23.237.78.82:30010/streams/139_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais",OFFhd
 http://23.237.78.82:30010/streams/59_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dW8tho/Paramount_Channel.png"group-title="Canais",Paramount Network
+http://23.237.78.82:30010/streams/172_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fMTf98/Polishop.png"group-title="Canais",Polishop
 http://23.237.78.82:30010/streams/10_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais",Premiere Clubes
@@ -219,9 +221,6 @@ http://23.237.78.82:30010/streams/67_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_4.png"group-title="Canais",Premiere 4 HD
 http://23.237.78.82:30010/streams/68._m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 5
-
-
-
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
@@ -255,8 +254,12 @@ http://23.237.78.82:30010/streams/71_.m3u8
 http://23.237.78.82:30010/streams/72_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais",Sportv 2
 http://23.237.78.82:30010/streams/73_.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais",Studio Universal
+http://23.237.78.82:30010/streams/173_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iGr2so/Syfy_HD.png"group-title="Canais",Syfy
+http://23.237.78.82:30010/streams/174_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bOd1gJ/TBS_HD.png"group-title="Canais",TBS
+http://23.237.78.82:30010/streams/175_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/erpDvd/Telecine_Pipoca.png"group-title="Canais",Telecine Pipoca
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/erpDvd/Telecine_Pipoca.png"group-title="Canais",Telecine Pipoca
@@ -270,6 +273,8 @@ http://23.237.78.82:30010/streams/122_.m3u8
 http://23.237.78.82:30010/streams/5_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais",TNT Series
 http://23.237.78.82:30010/streams/6_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais",TNT Series HD
+http://23.237.78.82:30010/streams/176_.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais",TV Aparecida
@@ -281,15 +286,18 @@ http://23.237.78.82:30010/streams/19_.m3u8
 
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/43185_gazeta-largura.jpg"group-title="Canais",TV Gazeta
 
-#EXTINF:-1 tvg-logo=""group-title="Canais",Studio Universal
-
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais",Universal TV
+http://23.237.78.82:30010/streams/177_.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais",Universal TV HD
+http://23.237.78.82:30010/streams/178_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kcOCoy/VH1_HD.png"group-title="Canais",VH1
 http://23.237.78.82:30010/streams/145_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bXZrJT/VH1_Mega_Hits.png"group-title="Canais",VH1 Megahits
 http://23.237.78.82:30010/streams/146_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbF8Ty/Viva.png"group-title="Canais",Viva
 http://23.237.78.82:30010/streams/153_.m3u8
-
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais",Warner
+http://23.237.78.82:30010/streams/179_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",whowhoo
 http://23.237.78.82:30010/streams/154_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dfz6z8/ZooMoo.png"group-title="Canais",Zoom mo Kids
