@@ -72,7 +72,12 @@ http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 http://23.237.78.82:30010/streams/50_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais",Fox Life
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports HD
+http://23.237.78.82:30010/streams/55_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports SD
+http://23.237.78.82:30010/streams/56_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports2
+http://23.237.78.82:30010/streams/57_.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
