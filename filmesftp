@@ -8,21 +8,21 @@ http://23.237.78.82:30010/streams/2_.m3u8
 http://23.237.78.82:30010/streams/98_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais",Animal Planet HD
 http://23.237.78.82:30010/streams/99_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",BabyTV
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ks8Ovd/Baby_TV.png"group-title="Canais",BabyTV
 http://23.237.78.82:30010/streams/126_.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirantes
 http://23.237.78.82:30010/streams/10_.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band
 http://23.237.78.82:30010/streams/14_.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports HD
 http://23.237.78.82:30010/streams/46_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports SD
 http://23.237.78.82:30010/streams/47_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",Band News
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mdQmFd/Band_News_HD.png"group-title="Canais",Band News
 http://23.237.78.82:30010/streams/85_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais",BIS
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ccMsp8/Bis.png"group-title="Canais",BIS
 http://23.237.78.82:30010/streams/140_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais",Boomerang
 http://23.237.78.82:30010/streams/127_.m3u8
@@ -42,11 +42,11 @@ http://23.237.78.82:30010/streams/128_.m3u8
 
 #EXTINF:-1 tvg-logo="http://static.psrv.io/logos/canais/comedycentral.png"group-title="Canais",Comedy Central
 
-#EXTINF:-1 tvg-logo=""group-title="Canais",Curta
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bEWxNT/Curta.png"group-title="Canais",Curta
 http://23.237.78.82:30010/streams/20_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Combate
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Combate
 http://23.237.78.82:30010/streams/48_.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Combate HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Combate HD
 http://23.237.78.82:30010/streams/49_.m3u8
 
 
