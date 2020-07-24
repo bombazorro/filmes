@@ -8,13 +8,21 @@ http://23.237.78.82:30010/streams/2_.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais",Animal Planet
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante Oi
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
+http://23.237.78.82:30010/streams/10_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
+http://23.237.78.82:30010/streams/14_.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",BIS
 http://23.237.78.82:30010/streams/140_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais",Boomerang
+#EXTINF:-1 tvg-logo=""group-title="Canais",Canal Rural
+http://23.237.78.82:30010/streams/17_.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Canais",Canal Saude
+http://23.237.78.82:30010/streams/16_.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais",Cartoon Network
 
@@ -72,6 +80,8 @@ https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon HD
 
+#EXTINF:-1 tvg-logo=""group-title="Canais",Polishop
+http://23.237.78.82:30010/streams/10_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 2
 
@@ -104,6 +114,9 @@ http://23.237.78.82:30010/streams/5_.m3u8
 http://23.237.78.82:30010/streams/6_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",TV Cultura
+http://23.237.78.82:30010/streams/19_.m3u8
+
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/43185_gazeta-largura.jpg"group-title="Canais",TV Gazeta
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Studio Universal
