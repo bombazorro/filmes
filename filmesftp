@@ -13,8 +13,10 @@ http://23.237.78.82:30010/streams/10_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Bandeirante
 http://23.237.78.82:30010/streams/14_.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports
-
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports HD
+http://23.237.78.82:30010/streams/46_.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais",Band Sports SD
+http://23.237.78.82:30010/streams/47_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",BIS
 http://23.237.78.82:30010/streams/140_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais",Boomerang
@@ -23,6 +25,8 @@ http://23.237.78.82:30010/streams/17_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Canal Saude
 http://23.237.78.82:30010/streams/16_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais",Canal E
+http://23.237.78.82:30010/streams/41_.m3u8
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais",Cartoon Network
 
@@ -34,6 +38,11 @@ http://23.237.78.82:30010/streams/16_.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Canais",Curta
 http://23.237.78.82:30010/streams/20_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Combate
+http://23.237.78.82:30010/streams/48_.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Combate HD
+http://23.237.78.82:30010/streams/49_.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais",Discovery Channel
 
@@ -49,10 +58,18 @@ http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais",Discovery Turbo
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN
+http://23.237.78.82:30010/streams/51_.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN HD
+http://23.237.78.82:30010/streams/52_.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN Brasil 
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN Brasil 
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",ESPN Extra
+http://23.237.78.82:30010/streams/50_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5s5gHix.png"group-title="Canais",Fox Life
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais",Fox Sports
@@ -123,6 +140,8 @@ http://23.237.78.82:30010/streams/35_.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais",SBT
 http://23.237.78.82:30010/streams/37_.m3u8
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/sportv2.png"group-title="Canais",Sportv
+#EXTINF:-1 tvg-logo=""group-title="Canais",Sport Center
+http://23.237.78.82:30010/streams/53_.m3u8
 
 #EXTINF:-1 tvg-logo="http://tisistemas.online/uploads/tv_image/telecine-pipoca.png"group-title="Canais",Telecine Pipoca
 
