@@ -738,6 +738,14 @@ https://baixarapp.org/mp4.php?a=clarencio-o-otimista&e=50
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Playboy
+http://23.237.78.82:30010/streams/215_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Sextreme
+http://23.237.78.82:30010/streams/216_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",SexHot
+http://23.237.78.82:30010/streams/217_.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Venus
+http://23.237.78.82:30010/streams/218_.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Penthouse Quickies
