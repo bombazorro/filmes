@@ -393,8 +393,10 @@ CANAIS OI
 
 
 Filmes
-#EXTINF:0 tvg-logo=""group-title="Filme",No balanço das coisas
+#EXTINF:0 tvg-logo="https://d10btd77keh5oj.cloudfront.net/images/filmes/cartaz/the-swing-of-things14093.jpeg"group-title="Filme",No balanço das coisas
 https://webxview.xyz/server1/Filmes-4k/720p/N/No.Balaco.Das.Coisas.2020.mp4 
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/20/06/18/09/37/0979024.jpg"group-title="Filme",Desperados 2020
+https://webxview.xyz/server1/Filmes-4k/720p/D/Desperados.2020.mp4
 #EXTINF:0 tvg-logo=""group-title="Filme",O alto da Compadecida
 http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg"group-title="Filme",De Volta Pro Futuro 1
