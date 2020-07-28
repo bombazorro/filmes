@@ -393,7 +393,10 @@ CANAIS OI
 
 
 Filmes
+#EXTINF:0 tvg-logo=""group-title="Filme",No balanço das coisas
 https://p.netcine.info/players/desktop37-pc.php?n=NOBALACODASCOISASDUB&p=filmes2020
+#EXTINF:0 tvg-logo=""group-title="Filme",No balanço das coisas
+https://webxview.xyz/server1/Filmes-4k/720p/N/No.Balaco.Das.Coisas.2020.mp4 
 #EXTINF:0 tvg-logo=""group-title="Filme",O alto da Compadecida
 http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg"group-title="Filme",De Volta Pro Futuro 1
