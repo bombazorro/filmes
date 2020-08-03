@@ -51,6 +51,8 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16518
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6134
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Discovery Channel BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16517
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Okan",Disney Channel Alternativo
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Discovery Civilization BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16516
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Discovery Home & Health BR
@@ -67,6 +69,10 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16510
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16507
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Disney Junior BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16506
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Okan",Disney Junior Alternativo
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Okan",Disney XD BR Alternativo
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Disney XD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6130
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",E! HD BR
@@ -77,6 +83,10 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16505
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13633
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",ESPN Brasil BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/10232
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Okan",ESPN Brasil Alternativo
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais",ESPN Brasil  Alternativo
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",ESPN HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13634
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",ESPN BR
@@ -111,6 +121,10 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/6126
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16484
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",GNT HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/10233
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Okan",Globo Alternativo
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Okan", Globo Oi Alternativo
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Globo Minas FHD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16495
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Globo News HD BR
@@ -173,6 +187,10 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16476
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13614
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Multishow TV BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6116
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Okan",Multishow Alternativo
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Okan",Multishow2 Alternativo
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Multishow BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16474
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Music Box BR
@@ -183,6 +201,8 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16468
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6114
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Nick Jr BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16467
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Okan",Nick Jr Alternativo
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Nickelodeon BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13612
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Off HD BR
@@ -215,6 +235,8 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/10225
 http://85.217.222.17:8080/okan405/bknpqwt9lp/10223
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Prime Box BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6111
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais ",Record Alternativo
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Record BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16462
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Record News BR
@@ -225,6 +247,8 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16461
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13607
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Rede TV BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6110
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Okan",Redetv
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",SBT HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13606
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",SBT BR
@@ -269,6 +293,8 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/16454
 http://85.217.222.17:8080/okan405/bknpqwt9lp/13591
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",TNT Series BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6097
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Okan",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",TV Brazil HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/6094
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",TV Diario BR
@@ -504,16 +530,10 @@ http://199.127.62.234:2095/streams/106_.m3u8
 http://199.127.62.234:2095/streams/107_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais",discovery World HD
 http://199.127.62.234:2095/streams/108_.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais",Disney Channel
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais",Disney Channel HD
 http://199.127.62.234:2095/streams/129_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais",Disney Junior
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais",Disney Junior
 http://199.127.62.234:2095/streams/130_.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais",Disney xd
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais",Disney xd
 http://199.127.62.234:2095/streams/131_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fGq8Ty/E_Entertainment.png"group-title="Canais",E!
@@ -524,11 +544,6 @@ http://199.127.62.234:2095/streams/51_.m3u8
 http://199.127.62.234:2095/streams/52_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais",ESPN FHD
 http://199.127.62.234:2095/streams/241_.m3u8
-
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN Brasil 
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais",ESPN Brasil 
-http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais",ESPN Extra
 http://199.127.62.234:2095/streams/50_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fxYv8y/Fish_TV.png"group-title="Canais",Fish HD
@@ -568,8 +583,6 @@ http://199.127.62.234:2095/streams/132_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais",Gloob HD
 http://199.127.62.234:2095/streams/133_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo
 http://199.127.62.234:2095/streams/2_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo HD
 http://199.127.62.234:2095/streams/246_.m3u8
@@ -583,8 +596,6 @@ http://199.127.62.234:2095/streams/23_.m3u8
 http://199.127.62.234:2095/streams/25_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais",Globo Internacional
 http://199.127.62.234:2095/streams/255_.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais", Globo Oi
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png"group-title="Canais",GNT HD
 http://199.127.62.234:2095/streams/150_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais",HBO
@@ -640,10 +651,6 @@ http://199.127.62.234:2095/streams/141_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais",MTV
 http://199.127.62.234:2095/streams/142_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais",Multishow
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais",Multishow2
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais",Multishow
 http://199.127.62.234:2095/streams/143_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png"group-title="Canais",Music
 http://199.127.62.234:2095/streams/144_.m3u8
@@ -658,8 +665,6 @@ http://199.127.62.234:2095/streams/119_.m3u8
 http://199.127.62.234:2095/streams/120_.m3u8
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais",Nickelodeon HD
 http://199.127.62.234:2095/streams/135_.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais",Nick Jr.
-https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais",Nick Jr
 http://199.127.62.234:2095/streams/139_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais",OFFhd
@@ -686,13 +691,10 @@ http://199.127.62.234:2095/streams/67_.m3u8
 http://199.127.62.234:2095/streams/68._m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",Premiere 5
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record
 http://199.127.62.234:2095/streams/29_.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais",Record HD
 http://199.127.62.234:2095/streams/30_.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais",Redetv
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais",Redetv HD
 http://199.127.62.234:2095/streams/33_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais",Redetv FHD
@@ -764,8 +766,6 @@ http://199.127.62.234:2095/streams/6_.m3u8
 http://199.127.62.234:2095/streams/176_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ks0WgJ/Tooncast.png"group-title="Canais",Tooncast
 http://199.127.62.234:2095/streams/222_.m3u8
-#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais",TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais",TV Aparecida
 http://199.127.62.234:2095/streams/38_.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais",TV Brasil Animada
