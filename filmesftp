@@ -582,6 +582,9 @@ http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755699
 
 
 Filmes
+
+#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/inl9HRpmRTEwMC5dhgZNrjcwm4C.jpg"group-title="Filme",Invasão 2020
+
 #EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/20/06/18/09/37/0979024.jpg"group-title="Filme",Desperados 2020
 https://webxview.xyz/server1/Filmes-4k/720p/D/Desperados.2020.mp4
 #EXTINF:0 tvg-logo=""group-title="Filme",O alto da Compadecida
