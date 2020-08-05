@@ -340,6 +340,26 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/6088
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Woohoo HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16448
 
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filme",365 dias com ela
+http://fly.cupefly.club/bucket/365dias.mp4
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/20/04/21/17/15/0297294.jpg"group-title="Filme",Missy a Errada
+http://fly.cupefly.club/bucket/amissyerrada.mp4
+#EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filme",Maria e João e o conto das Bruxas
+http://fly.cupefly.club/bucket/mariaejoao.mp4
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XbDvqr6oL._AC_SX569_.jpg"group-title="Filme",Bad Boys para sempre
+http://fly.cupefly.club/bucket/badboysparasempre.mp4
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/20/06/18/09/37/0979024.jpg"group-title="Filme",Desperados 2020
+https://webxview.xyz/server1/Filmes-4k/720p/D/Desperados.2020.mp4
+#EXTINF:0 tvg-logo=""group-title="Filme",O alto da Compadecida
+http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg"group-title="Filme",De Volta Pro Futuro 1
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/BackFuture2Poster.jpg"group-title="Filme",De Volta Pro Futuro 2
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg"group-title="Filme",De Volta Pro Futuro 3
+http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
+#EXTINF:-1 tvg-logo=""Filme",Magnatas do crime
+https://streamtape.com/get_video?id=eA0JJ7mYGmIY6W8&expires=1595265686&ip=F0qTKRETKxSHDN&token=JXKhi_GQcZmm&stream=1
 #EXTINF:-1 group-title="Filme",Alpha
 http://webtvcde.com/Filmes/Dublados/Alpha.mkv
 #EXTINF:-1 group-title="Filme",CINQUENTA TONS DE PRETO
@@ -430,7 +450,6 @@ https://cdn.jsdelivr.net/gh/antoniomark2020/VG8xX1N0MHJ5XzQubXA0@1ed0e3c339c0729
 
 
 CANAIS 24 horas
-
 
 #EXTM3U
 #EXTINF:-1 tvg-logo=""group-title="Canais 24H",Mega Tv
@@ -575,32 +594,6 @@ http://stream-sky.cf:80/edvandro24h/4mRJSpRD1h/755699
 
 Filmes
 
-#EXTINF:0 tvg-logo="https://image.tmdb.org/t/p/w185/inl9HRpmRTEwMC5dhgZNrjcwm4C.jpg"group-title="Filme",Invasão 2020
-
-#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/r_1920_1080/pictures/20/06/18/09/37/0979024.jpg"group-title="Filme",Desperados 2020
-https://webxview.xyz/server1/Filmes-4k/720p/D/Desperados.2020.mp4
-#EXTINF:0 tvg-logo=""group-title="Filme",O alto da Compadecida
-http://144.217.77.29/0912/o%20auto%20da%20compadecida%20(2000).mp4
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg"group-title="Filme",De Volta Pro Futuro 1
-http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%201.mkv
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/0c/BackFuture2Poster.jpg"group-title="Filme",De Volta Pro Futuro 2
-http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%202.mkv
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/BackFuture3Poster.jpg"group-title="Filme",De Volta Pro Futuro 3
-http://webtvcde.com/Filmes/Dublados/Volta/De%20volta%20para%20o%20futuro%203.mkv
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filme",365 dias com ela
-http://fly.cupefly.club/bucket/365dias.mp4
-#EXTINF:-1 tvg-logo=""Filme",No balanço das coisas
-https://cdn.netcine.info/html/content/conteudolb4/filmes2020/NOBALACODASCOISASDUB-BAIXO.mp4?token=ZOubW3-B13UEngqUqGcLbw&expires=1595220331&ip=177.72.25.85
-#EXTINF:-1 tvg-logo=""Filme",Magnatas do crime
-https://streamtape.com/get_video?id=eA0JJ7mYGmIY6W8&expires=1595265686&ip=F0qTKRETKxSHDN&token=JXKhi_GQcZmm&stream=1
-#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/r_1920_1080/pictures/20/04/21/17/15/0297294.jpg"group-title="Filme",Missy a Errada
-http://fly.cupefly.club/bucket/amissyerrada.mp4
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XbDvqr6oL._AC_SX569_.jpg"group-title="Filme",Bad Boys para sempre
-http://fly.cupefly.club/bucket/badboysparasempre.mp4
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/pS7PugbKxQM/hqdefault.jpg"group-title="Filme",Isi & Ossi
-http://fly.cupefly.club/bucket/iseossi.mp4
-#EXTINF:0 tvg-logo="http://www.artescetera.com.br/wp-content/uploads/2020/01/Maria-e-Jo%C3%A3o.jpg"group-title="Filme",Maria e João e o conto das Bruxas
-http://fly.cupefly.club/bucket/mariaejoao.mp4
 
 
 #EXTINF:-1 group-title="Desenhos",Moana - Um Mar de Aventuras – Dublado
