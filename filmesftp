@@ -417,14 +417,6 @@ http://webtvcde.com/Filmes/Dublados/Esquadrao.Suicida.Dublado.mkv
 http://webtvcde.com/Filmes/Dublados/Invocacao.do.Mal.2013.mkv
 #EXTINF:-1 group-title="Filme",JUMANJI: BEM VINDO A SELVA
 http://webtvcde.com/Filmes/Dublados/Jumanji.Bem.Vindo.a.Selva.2018.1080p.mkv
-#EXTINF:-1 group-title="Desenhos",OS INCRIVEIS 2
-http://webtvcde.com/Filmes/Dublados/Os.Incriveis.2.mkv
-#EXTINF:-1 group-title="Filme",PICA-PAU: O FILME
-http://webtvcde.com/Filmes/Dublados/Pica-Pau-O.Filme.2018.mkv
-#EXTINF:-1 group-title="Desenhos",SCOOBY-DOO: O FILME
-http://webtvcde.com/Filmes/Dublados/ScoobyDoo/1.Scooby.Doo.avi
-#EXTINF:-1 group-title="Filme",SCOOBY-DOO E A MALDIÇÃO DO MONSTRO DO LAGO
-http://webtvcde.com/Filmes/Dublados/ScoobyDoo/4.Scooby.Doo.e.a.Maldicao.do.Monstro.do.Lago.avi
 #EXTINF:-1 group-title="Filme",STAR WARS: A AMEAÇA FANTASMA
 http://webtvcde.com/Filmes/Dublados/Star.Wars/Star.Wars.Episode.I.The.Phantom.Menace.1999.mkv
 #EXTINF:-1 group-title="Filme",STAR WARS: O ATAQUE DOS CLONES
@@ -671,8 +663,14 @@ http://144.217.77.29/reileo1994/reileo1994.mp4
 http://144.217.77.29/movies/O%20Rei%20Le%c3%a3o%203:%20Hakuna%20Matata.mp4
 #EXTINF:0 tvg-logo="http://www.joatt.com.br/FILMES/REI-LEAO/REI-LEAO-logo.png"group-title="Desenhos",O Rei Leão 2019
 http://www.joatt.com.br/FILMES/REI-LEAO/REI-LEAO.mp4
-#EXTINF:0 tvg-logo=""group-title="Desenhos",Os Incriveis 2
+#EXTINF:0 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/18/04/12/20/25/5720930.jpg"group-title="Desenhos",Os Incriveis 2
 http://webtvcde.com/Filmes/Dublados/Os.Incriveis.2.mkv
+#EXTINF:0 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/25/19/04/419991.jpg"group-title="Desenhos",Pica Pau o Filme
+http://webtvcde.com/Filmes/Dublados/Pica-Pau-O.Filme.2018.mkv
+#EXTINF:-1 group-title="Desenhos",SCOOBY-DOO: O FILME
+http://webtvcde.com/Filmes/Dublados/ScoobyDoo/1.Scooby.Doo.avi
+#EXTINF:-1 group-title="Filme",SCOOBY-DOO E A MALDIÇÃO DO MONSTRO DO LAGO
+http://webtvcde.com/Filmes/Dublados/ScoobyDoo/4.Scooby.Doo.e.a.Maldicao.do.Monstro.do.Lago.avi
 #EXTINF:0 tvg-logo="https://www.filmezando.com/wp-content/uploads/2017/01/Pets-A-Vida-Secreta-dos-Bichos-poster-nacional-189x300.jpg"group-title="Desenhos",Pet A vida secreta dos bichos
 http://195.154.184.17/%5bWWW.BLUDV.TV%5d%20Pets%20-%20A%20Vida%20Secreta%20dos%20Bichos%202%20%202019%20(720p%20-%20BluRay)%20%5bDUBLADO%5d%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Pets.A.Vida.Secreta.dos.Bichos.2.2019.720p.BluRay.x264.DUBLADO-WWW.BLUDV.TV.mp4
 #EXTINF:0 tvg-logo="https://domtotal.com/blog/flavialeao/wp-content/uploads/sites/15/2019/03/top-dog-poster-oficial.jpg"group-title="Desenhos",Top Dog
