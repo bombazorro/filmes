@@ -856,7 +856,8 @@ https://baixarapp.org/mp4.php?a=clarencio-o-otimista&e=49
 #EXTINF:0 tvg-logo="https://tinyurl.com/clarencio"group-title="Clarencio o otimista",Clarencio Ep50
 https://baixarapp.org/mp4.php?a=clarencio-o-otimista&e=50
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",Brazzer Europa
+http://188.35.9.26:9031/udp/117m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",iptvtools_1
 https://videos.xxxziz.com/media/videos/h264/700_480p.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",iptvtools_2
