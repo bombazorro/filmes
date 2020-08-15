@@ -333,6 +333,8 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&
 https://balance.cinemafacil.com/live/4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais Alternativos",ESPN Brasil  Alternativo
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",Fox Channel
+http://195.181.163.183:2200/PY-N/Fox_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Alternativos",Globo Alternativo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Alternativos", Globo Oi Alternativo
@@ -711,8 +713,6 @@ http://ok2.se:8000/gino123/gino123/7972
 http://ok2.se:8000/gino123/gino123/72804
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Gino123",ESPN BRASIL
 http://ok2.se:8000/gino123/gino123/7973
-#EXTINF:-1 tvg-logo=""group-title="Gino123",Fox Channel
-http://195.181.163.183:2200/PY-N/Fox_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Gino123",Globo HD
 http://ok2.se:8000/gino123/gino123/42674
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Gino123",Globo RJ
