@@ -1,11 +1,15 @@
 #EXTM3U
 CAnal Alternativo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Alternativos",Animal Planet BIG
+http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Alternativos",Bandeirantes
 http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Alternativos",Cartoon Network
 http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",CNN Brasil Alternativo
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Alternativos",Discovery Channel BIG
+http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Alternativos",Disney Channel Alternativo
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Alternativos",Disney Junior Alternativo
@@ -45,7 +49,9 @@ http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Alternativos",Rede Record
 https://playplusspo-lh.akamaihd.net:443/i/pp_sp@350176/index_480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Alternativos",SBT
-ttp://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
+http://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Alternativos",SBT BIG
+http://195.181.163.183:2200/PY-N/SBT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais BIG",TNT HD
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
