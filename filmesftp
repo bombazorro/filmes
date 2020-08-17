@@ -1,6 +1,6 @@
 #EXTM3U
 CAnal Alternativo
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Bandeirantes
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Alternativos",Bandeirantes
 http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Alternativos",Cartoon Network
 http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
