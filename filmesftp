@@ -16,6 +16,8 @@ http://195.181.163.183:2200/PY-N/Disc-_Home_Health_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Discovery_Science_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Alternativos",Discovery Turbo HD
 http://195.181.163.183:2200/PY-N/Discovery_Turbo_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais Alternativos",discovery World HD
+http://195.181.163.183:2200/PY-N/Discovery_World_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Alternativos",Disney Channel Alternativo
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Alternativos",Disney Junior Alternativo
@@ -42,6 +44,8 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Alternativos", Globo RBS Alternativo
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Alternativos",History HD
+http://195.181.163.183:2200/PY-N/The_History_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow Alternativo
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow2 Alternativo
@@ -58,7 +62,7 @@ https://playplusspo-lh.akamaihd.net:443/i/pp_sp@350176/index_480_av-p.m3u8
 http://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Alternativos",SBT BIG
 http://195.181.163.183:2200/PY-N/SBT_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais BIG",TNT HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais Alternativos",TNT HD
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
@@ -103,7 +107,6 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais BIG",discovery Teather SD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais BIG",discovery Teather HD
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais BIG",Discovery Turbo
-#EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais BIG",discovery World HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais BIG",Disney Channel HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais BIG",Disney Junior
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais BIG",Disney xd
@@ -153,7 +156,6 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais BIG",HBO Xtreme
 #EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais BIG",HBO Xtreme
 #EXTINF:-1 tvg-logo="" group-title="Canais BIG",HGTV HD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais BIG",History
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais BIG",History
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais BIG",History 2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais BIG",Investigação Discovery
