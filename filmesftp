@@ -1,4 +1,227 @@
 #EXTM3U
+CAnal Alternativo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Bandeirantes
+http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Alternativos",Cartoon Network
+http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",CNN Brasil Alternativo
+https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Alternativos",Disney Channel Alternativo
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Alternativos",Disney Junior Alternativo
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",Disney XD BR Alternativo
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",EI PLUS
+http://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Alternativos",Nick Jr Alternativo
+https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Alternativos",ESPN Brasil Alternativo
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Alternativos",ESPN Brasil Alternativo
+https://balance.cinemafacil.com/live/4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais Alternativos",ESPN Brasil  Alternativo
+http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais Alternativos",Fox Channel
+http://195.181.163.183:2200/PY-N/Fox_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Alternativos",Globo Alternativo
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Alternativos", Globo Oi Alternativo
+https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Alternativos", Globo Nordeste Alternativo
+http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow Alternativo
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow2 Alternativo
+https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Alternativos",Redetv
+https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://2078.75/bigtv2/images/66319_recordtv-largura.jpg.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Alternativos",Record Alternativo
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://2078.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Alternativos",Rede Record
+https://playplusspo-lh.akamaihd.net:443/i/pp_sp@350176/index_480_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Alternativos",SBT
+ttp://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b3MXoy/AMC.png"group-title="Canais BIG",AMC
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b3MXoy/AMC.png"group-title="Canais BIG",AMC HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais BIG",AXN HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais BIG",AXN SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais BIG",A&E
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais BIG",Animal Planet
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais BIG",Animal Planet HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ivPk8y/Arte1.png"group-title="Canais BIG",Arte 1 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ks8Ovd/Baby_TV.png"group-title="Canais BIG",BabyTV
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Band
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Band
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kG2BgJ/Band_HD.png"group-title="Canais BIG",Band FHD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Band Sports HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Band Sports SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mdQmFd/Band_News_HD.png"group-title="Canais BIG",Band News
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ccMsp8/Bis.png"group-title="Canais BIG",BIS
+#EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais BIG",Boomerang
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Canal Rural
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Canal Saude
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Canal E
+#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais BIG",Cartoon Networ
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gdyOvd/Cinemax.png"group-title="Canais BIG",Cinemax
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gdyOvd/Cinemax.png"group-title="Canais BIG",Cinemax SD
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Cine Sky1 capitao cueca
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",CNN Brasil
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais BIG",Comedy Central SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais BIG",Comedy Central HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bEWxNT/Curta.png"group-title="Canais BIG",Curta
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais BIG",Combate
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais BIG",Combate HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais BIG",Discovery Channel SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais BIG",Discovery Channel HD
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais BIG",discovery Kids
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais BIG",discovery Kids HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais BIG",Discovery Home Health
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais BIG",Discovery Home Health HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mvGtvd/Discovery_Science.png"group-title="Canais BIG",Discovery Science
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais BIG",discovery Teather SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais BIG",discovery Teather HD
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais BIG",Discovery Turbo
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais BIG",Discovery Turbo HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais BIG",discovery World HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais BIG",Disney Channel HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais BIG",Disney Junior
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais BIG",Disney xd
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fGq8Ty/E_Entertainment.png"group-title="Canais BIG",E!
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais BIG",ESPN
+#EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais BIG",ESPN HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais BIG",ESPN FHD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais BIG",ESPN Extra
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fxYv8y/Fish_TV.png"group-title="Canais BIG",Fish HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c5ghoy/Food_Network_HD.png"group-title="Canais BIG",Food HD
+
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais BIG",Fox Channel HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fMzWxJ/Fox_Life_HD.png"group-title="Canais BIG",Fox Life
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais BIG",Fox Premium 1
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais BIG",Fox Premium 1 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais BIG",Fox Premium 2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais BIG",Fox Premium 2 HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports SD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports2 hd
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais BIG",FX HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais BIG",FX SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/h2wtvd/Gazeta.png"group-title="Canais BIG",Gazeta
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais BIG",Gloob SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais BIG",Gloob HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais BIG",Globo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais BIG",Globo HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais BIG",Globo NEws
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais BIG",Globo RBS RS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais BIG",Globo Vanguarda
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais BIG",Globo Vanguarda HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais BIG",Globo Internacional
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png"group-title="Canais BIG",GNT HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais BIG",HBO
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais BIG",HBO 2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais BIG",HBO 2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dtN0ad/HBO_Family_HD.png"group-title="Canais BIG",HBO Family
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dtN0ad/HBO_Family_HD.png"group-title="Canais BIG",HBO Family
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais BIG",HBO Mundi
+#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais BIG",HBO Mundi HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais BIG",HBO POP
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais BIG",HBO POP HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais BIG",HBO PLUS
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais BIG",HBO Signature
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais BIG",HBO Signature HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais BIG",HBO Xtreme
+#EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais BIG",HBO Xtreme
+#EXTINF:-1 tvg-logo="" group-title="Canais BIG",HGTV HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais BIG",History
+#EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais BIG",History
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais BIG",History 2
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais BIG",Investigação Discovery
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ed2TyT/Lifetime.png"group-title="Canais BIG",Lifetime
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Like Series
+#EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais BIG",Mais Globalsat
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais BIG",Megapix
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais BIG",Megapix HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais BIG",MTV
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais BIG",MTV
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais BIG",Multishow
+#EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png"group-title="Canais BIG",Music
+#EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais BIG",NatGeo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais BIG",NatGeo HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais BIG",NatGeo Wild
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais BIG",NatGeo Wild
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais BIG",Nickelodeon HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais BIG",Nick Jr
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais BIG",OFFhd
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dW8tho/Paramount_Channel.png"group-title="Canais BIG",Paramount Network
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fMTf98/Polishop.png"group-title="Canais BIG",Polishop
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais BIG",Premiere Clubes
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais BIG",Premiere Clubes HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_2.png"group-title="Canais BIG",Premiere 2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_2.png"group-title="Canais BIG",Premiere 2 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_3.png"group-title="Canais BIG",Premiere 3 
+#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_3.png"group-title="Canais BIG",Premiere 3 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_4.png"group-title="Canais BIG",Premiere 4
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_4.png"group-title="Canais BIG",Premiere 4 HD
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Premiere 5
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais BIG",Record
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais BIG",Record HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais BIG",Redetv HD
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais BIG",Redetv FHD
+#EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo.png"group-title="Canais BIG",Rede Vida HD
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais BIG",SBT
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais BIG",SBT
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c15Q8y/Sony.png"group-title="Canais BIG",Sony
+#EXTINF:-1 tvg-logo="https://image.ibb.co/c15Q8y/Sony.png"group-title="Canais BIG",Sony
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bNjJTy/Space.png"group-title="Canais BIG",Space HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bNjJTy/Space.png"group-title="Canais BIG",Space SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",Sport Center
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv SD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais BIG",Sportv 2 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais BIG",Sportv 2
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais BIG",Studio Universal
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iGr2so/Syfy_HD.png"group-title="Canais BIG",Syfy
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bOd1gJ/TBS_HD.png"group-title="Canais BIG",TBS
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais BIG",TLC HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jKRMgJ/TCM.png"group-title="Canais BIG",TCM HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cWGbFd/Telecine_Action.png"group-title="Canais BIG",Telecine Action
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cWGbFd/Telecine_Action.png"group-title="Canais BIG",Telecine Action HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais BIG",Telecine Pipoca
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais BIG",Telecine Pipoca HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais BIG",Telecine Pipoca FHD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/m99xa8/Telecine_Cult.png"group-title="Canais BIG",Telecine Cult
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ipFmFd/Telecine_Fun.png"group-title="Canais BIG",Telecine Fun
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ipFmFd/Telecine_Fun.png"group-title="Canais BIG",Telecine Fun HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dTScMJ/Telecine_Premium.png"group-title="Canais BIG",Telecine Premium
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dTScMJ/Telecine_Premium.png"group-title="Canais BIG",Telecine Premium hd
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jGPwFd/Telecine_Touch_HD.png"group-title="Canais BIG",Telecine Touch
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais BIG",TNT
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais BIG",TNT HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais BIG",TNT Series
+#EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais BIG",TNT Series HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ks0WgJ/Tooncast.png"group-title="Canais BIG",Tooncast
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais BIG",TV Aparecida
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",TV Brasil Animada
+#EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.pn"group-title="Canais BIG",TV Cultura
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/43185_gazeta-largura.jpg"group-title="Canais BIG",TV Gazeta
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais BIG",Universal TV
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais BIG",Universal TV HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kcOCoy/VH1_HD.png"group-title="Canais BIG",VH1
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZrJT/VH1_Mega_Hits.png"group-title="Canais BIG",VH1 Megahits
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hbF8Ty/Viva.png"group-title="Canais BIG",Viva
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais BIG",Warner
+#EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais BIG",WB
+#EXTINF:-1 tvg-logo=""group-title="Canais BIG",whowhoo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dfz6z8/ZooMoo.png"group-title="Canais BIG",Zoom mo Kids
+
+
 
 
 #EXTINF:-1,########## Brazil ##########
@@ -314,47 +537,7 @@ http://85.217.222.17:8080/okan405/bknpqwt9lp/6088
 #EXTINF:-1 tvg-logo=""group-title="Canais Okan",Woohoo HD BR
 http://85.217.222.17:8080/okan405/bknpqwt9lp/16448
 
-CAnal Alternativo
-#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",Cartoon
-http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",CNN Brasil Alternativo
-https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Alternativos",Disney Channel Alternativo
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Alternativos",Disney Junior Alternativo
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",Disney XD BR Alternativo
-http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",EI PLUS
-http://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Alternativos",Nick Jr Alternativo
-https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Alternativos",ESPN Brasil Alternativo
-https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Alternativos",ESPN Brasil Alternativo
-https://balance.cinemafacil.com/live/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais Alternativos",ESPN Brasil  Alternativo
-http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",Fox Channel
-http://195.181.163.183:2200/PY-N/Fox_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Alternativos",Globo Alternativo
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Alternativos", Globo Oi Alternativo
-https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow Alternativo
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow2 Alternativo
-https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Alternativos",Redetv
-https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://2078.75/bigtv2/images/66319_recordtv-largura.jpg.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Alternativos",Record Alternativo
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://2078.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Alternativos",Rede Record
-https://playplusspo-lh.akamaihd.net:443/i/pp_sp@350176/index_480_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Alternativos",SBT
-ttp://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
-#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
-http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+
 
 
 
