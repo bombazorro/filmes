@@ -130,8 +130,25 @@ http://195.181.163.183:2200/PY-N/Sportv_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Sportv_2_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais Alternativos",Sportv 3
 http://195.181.163.183:2200/PY-N/Sportv_3_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais Alternativos",Studio Universal HD
+http://195.181.163.183:2200/PY-N/Studio_Universal_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iGr2so/Syfy_HD.png"group-title="Canais Alternativos",Syfy
 http://195.181.163.183:2200/PY-N/SyFy_HD-br/index.m3u8
+#EXTINF:0 tvg-id="Tctouch.br" group-title="CANAIS FILMES/SÉRIES",TELECINE TOUCH HD
+http://195.181.163.183:2200/PY-N/Telecine_Touch_HD-br/index.m3u8
+#EXTINF:0 tvg-id="Tcpremium.br" group-title="CANAIS FILMES/SÉRIES",TELECINE PREMIUM HD
+http://195.181.163.183:2200/PY-N/Telecine_Premium_HD-br/index.m3u8
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="CANAIS FILMES/SÉRIES",TELECINE PIPOCA HD
+http://195.181.163.183:2200/PY-N/Telecine_Pipoca_HD-br/index.m3u8
+#EXTINF:0 tvg-id="Tcfun.br" group-title="CANAIS FILMES/SÉRIES",TELECINE FUN HD
+http://195.181.163.183:2200/PY-N/Telecine_Fun_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cWGbFd/Telecine_Action.png"group-title="Canais Alternativos",Telecine Action HD
+http://195.181.163.183:2200/PY-N/Telecine_Action_HD-br/index.m3u8
+#EXTINF:0 tvg-id="Tccult.br" group-title="CANAIS FILMES/SÉRIES",TELECINE CULT HD
+http://195.181.163.183:2200/PY-N/Telecine_Cult_HD-br/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais Alternativos",TNT HD
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
@@ -263,13 +280,13 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv SD
 
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais BIG",Studio Universal
+
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bOd1gJ/TBS_HD.png"group-title="Canais BIG",TBS
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais BIG",TLC HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jKRMgJ/TCM.png"group-title="Canais BIG",TCM HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/cWGbFd/Telecine_Action.png"group-title="Canais BIG",Telecine Action
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cWGbFd/Telecine_Action.png"group-title="Canais BIG",Telecine Action HD
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais BIG",Telecine Pipoca
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais BIG",Telecine Pipoca HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jNZJTy/Telecine_Pipoca_HD.png"group-title="Canais BIG",Telecine Pipoca FHD
