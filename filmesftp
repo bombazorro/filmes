@@ -60,6 +60,8 @@ https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZj
 http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais Alternativos",NatGeo Wild HD
 http://195.181.163.183:2200/PY-N/NatGeo_Wild_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais Alternativos",OFFhd
+http://195.181.163.183:2200/PY-N/OFF_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Alternativos",Redetv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Alternativos",Redetv big
@@ -76,6 +78,8 @@ http://195.181.163.183:2200/PY-N/SBT_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Sportv_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais Alternativos",Sportv 2 HD
 http://195.181.163.183:2200/PY-N/Sportv_2_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais Alternativos",Sportv 3
+http://195.181.163.183:2200/PY-N/Sportv_3_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais Alternativos",TNT HD
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
@@ -185,7 +189,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais BIG",NatGeo Wild
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais BIG",Nickelodeon HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais BIG",Nick Jr
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais BIG",OFFhd
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dW8tho/Paramount_Channel.png"group-title="Canais BIG",Paramount Network
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fMTf98/Polishop.png"group-title="Canais BIG",Polishop
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais BIG",Premiere Clubes
@@ -213,7 +217,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv SD
 
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais BIG",Sportv 2
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais BIG",Studio Universal
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iGr2so/Syfy_HD.png"group-title="Canais BIG",Syfy
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bOd1gJ/TBS_HD.png"group-title="Canais BIG",TBS
