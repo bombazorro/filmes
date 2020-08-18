@@ -100,43 +100,43 @@ http://195.181.163.183:2200/PY-N/History_2_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/ID_-_Investi_Discovery_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais Filme",Megapix HD
 http://195.181.163.183:2200/PY-N/Megapix_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Alternativos",MTV
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Musicais",MTV
 http://195.181.163.183:2200/PY-N/MTV_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow BIG
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Musicais",Multishow BIG
 http://195.181.163.183:2200/PY-N/Multishow_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow Alternativo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Musicais",Multishow Alternativo
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow2 Alternativo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Musicais",Multishow2 Alternativo
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",Music BOX
+#EXTINF:-1 tvg-logo=""group-title="Canais Musicais",Music BOX
 http://195.181.163.183:2200/PY-N/Music_Box_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais Alternativos",NatGeo HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais Documentarios",NatGeo HD
 http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",NatGeo Kids HD
 http://195.181.163.183:2200/BR/NatGeoKidsHD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais Alternativos",NatGeo Wild HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais Documentarios",NatGeo Wild HD
 http://195.181.163.183:2200/PY-N/NatGeo_Wild_HD-br/index.m3u8
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais Alternativos",Nickelodeon HD
 http://195.181.163.183:2200/PY-N/Nickelodeon_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Alternativos",Nick Jr
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Intantil",Nick Jr
 http://195.181.163.183:2200/PY-N/Nick_Jr_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais Alternativos",OFFhd
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais Esportes",OFF hd
 http://195.181.163.183:2200/PY-N/OFF_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dW8tho/Paramount_Channel.png"group-title="Canais Alternativos",Paramount
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dW8tho/Paramount_Channel.png"group-title="Canais Filme",Paramount
 http://195.181.163.183:2200/PY-N/Paramount_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais Alternativos",Premiere Clubes HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais Esportess",Premiere Clubes HD
 http://195.181.163.183:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_2.png"group-title="Canais Alternativos",Premiere 2 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_2.png"group-title="Canais Esportes",Premiere 2 HD
 http://195.181.163.183:2200/PY-N/Premiere_2_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_3.png"group-title="Canais Alternativos",Premiere 3 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_3.png"group-title="Canais Esportes",Premiere 3 HD
 http://195.181.163.183:2200/PY-N/Premiere_3_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_4.png"group-title="Canais Alternativos",Premiere 4 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_4.png"group-title="Canais Esportes",Premiere 4 HD
 http://195.181.163.183:2200/PY-N/Premiere_4_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_5.png"group-title="Canais Alternativos",Premiere 5 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_5.png"group-title="Canais Esportess",Premiere 5 HD
 http://195.181.163.183:2200/PY-N/Premiere_5_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_6.png"group-title="Canais Alternativos",Premiere 6 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_6.png"group-title="Canais Esportes",Premiere 6 HD
 http://195.181.163.183:2200/PY-N/Premiere_6_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_7.png"group-title="Canais Alternativos",Premiere 7 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/cXZJTy/Premiere_7.png"group-title="Canais Esportes",Premiere 7 HD
 http://195.181.163.183:2200/PY-N/Premiere_7_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Alternativos",Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
