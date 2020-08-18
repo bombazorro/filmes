@@ -46,10 +46,16 @@ http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Alternativos",History HD
 http://195.181.163.183:2200/PY-N/The_History_Channel_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Alternativos",Investigação Discovery
+http://195.181.163.183:2200/PY-N/ID_-_Investi_Discovery_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow Alternativo
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow2 Alternativo
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais Alternativos",NatGeo HD
+http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais Alternativos",NatGeo Wild HD
+http://195.181.163.183:2200/PY-N/NatGeo_Wild_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Alternativos",Redetv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Alternativos",Redetv big
@@ -158,7 +164,6 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Canais BIG",HGTV HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais BIG",History
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais BIG",History 2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais BIG",Investigação Discovery
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ed2TyT/Lifetime.png"group-title="Canais BIG",Lifetime
 #EXTINF:-1 tvg-logo=""group-title="Canais BIG",Like Series
 #EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais BIG",Mais Globalsat
@@ -169,8 +174,6 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais BIG",Multishow
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png"group-title="Canais BIG",Music
 #EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais BIG",NatGeo
-#EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais BIG",NatGeo HD
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais BIG",NatGeo Wild
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais BIG",NatGeo Wild
 #EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais BIG",Nickelodeon HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais BIG",Nick Jr
