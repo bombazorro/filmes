@@ -32,7 +32,7 @@ http://195.181.163.183:2200/PY-N/Combate_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Alternativos",Discovery Home Health HD
 http://195.181.163.183:2200/PY-N/Disc-_Home_Health_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais BIG",discovery Kids HD
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Alternativo",discovery Kids HD
 http://195.181.163.183:2200/PY-N/Discovery_Ks_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mvGtvd/Discovery_Science.png"group-title="Canais Alternativos",Discovery Science
 http://195.181.163.183:2200/PY-N/Discovery_Science_HD-br/index.m3u8
@@ -62,7 +62,7 @@ http://195.181.163.183:2200/PY-N/Fox_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Fox_Life_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais Alternativos",Fox Premium 1 HD
 http://195.181.163.183:2200/PY-N/Fox_Premium_1_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais BIG",Fox Premium 2 HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais Alternativo",Fox Premium 2 HD
 http://195.181.163.183:2200/PY-N/Fox_Premium_2_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Alternativos",Fox Sports HD
 http://195.181.163.183:2200/PY-N/Fox_Sports_HD-br/index.m3u8
@@ -80,7 +80,7 @@ http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais BIG",Globo NEws
 http://195.181.163.183:2200/PY-N/Globo_News_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais BIG",Gloob HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais Alternativo",Gloob HD
 http://195.181.163.183:2200/PY-N/Gloob_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais Alternativos",HBO HD
 http://195.181.163.183:2200/PY-N/HBO_HD-br/index.m3u8
