@@ -98,8 +98,14 @@ https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZj
 https://live.video.globo.com/h/1402196702233012345678915746222339876543210pJEKZjeaTYyxXDM3Kaz8QQ/k/app/a/A/u/anyone/d/s/hls-msw24ha/hls-msw24ha_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais Alternativos",NatGeo HD
 http://195.181.163.183:2200/PY-N/Nat_Geo_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",NatGeo Kids HD
+http://195.181.163.183:2200/BR/NatGeoKidsHD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais Alternativos",NatGeo Wild HD
 http://195.181.163.183:2200/PY-N/NatGeo_Wild_HD-br/index.m3u8
+#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais Alternativos",Nickelodeon HD
+http://195.181.163.183:2200/PY-N/Nickelodeon_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais BIG",Nick Jr
+http://195.181.163.183:2200/PY-N/Nick_Jr_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hpt1gJ/Canal_Off.png"group-title="Canais Alternativos",OFFhd
 http://195.181.163.183:2200/PY-N/OFF_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dW8tho/Paramount_Channel.png"group-title="Canais Alternativos",Paramount
@@ -160,10 +166,14 @@ http://195.181.163.183:2200/PY-N/TBS_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais Alternativo",TNT Series HD
 http://195.181.163.183:2200/PY-N/TNT_Series_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ks0WgJ/Tooncast.png"group-title="Canais Alternativo",Tooncast
+http://195.181.163.183:2200/BR/Tooncast-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais Alternativo",Universal TV HD
 http://195.181.163.183:2200/PY-N/Universal_TV_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",TV Ratim Bum
+http://195.181.162.87:2200/BR1/tvraetimbum-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais Alternativos",Warner
 http://195.181.163.183:2200/PY-N/Warner_Channel_HD-br/index.m3u8
 
@@ -248,8 +258,8 @@ http://195.181.163.183:2200/PY-N/Warner_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png"group-title="Canais BIG",Music
 #EXTINF:-1 tvg-logo="https://image.ibb.co/e4AggJ/National_Geographic.png"group-title="Canais BIG",NatGeo
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mFUJTy/Nat_Geo_Wild.png"group-title="Canais BIG",NatGeo Wild
-#EXTINF:-1 type="stream" tvg-id="Nickelodeon HD" tvg-logo="https://i.ibb.co/p4SynfT/nickelodeon.png" group-title="Canais BIG",Nickelodeon HD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais BIG",Nick Jr
+
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fMTf98/Polishop.png"group-title="Canais BIG",Polishop
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais BIG",Premiere Clubes
 #EXTINF:-1 tvg-logo=""group-title="Canais BIG",Premiere 5
@@ -288,7 +298,7 @@ http://195.181.163.183:2200/PY-N/Warner_Channel_HD-br/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais BIG",TNT Series
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais BIG",TNT Series HD
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ks0WgJ/Tooncast.png"group-title="Canais BIG",Tooncast
+
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais BIG",TV Aparecida
 #EXTINF:-1 tvg-logo=""group-title="Canais BIG",TV Brasil Animada
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.pn"group-title="Canais BIG",TV Cultura
