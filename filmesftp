@@ -24,7 +24,7 @@ http://195.181.163.183:2200/PY-N/Boomerang_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Canal_Sony_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Intantil",Cartoon Network
 http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Noticia",CNN Brasil Alternativo
+#EXTINF:-1 tvg-logo=""group-title="Canais Noticia",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Esportes",Combate HD
 http://195.181.163.183:2200/PY-N/Combate_HD-br/index.m3u8
@@ -40,21 +40,21 @@ http://195.181.163.183:2200/PY-N/Discovery_Science_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Discovery_Turbo_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais Documentarios",discovery World HD
 http://195.181.163.183:2200/PY-N/Discovery_World_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Intantil",Disney Channel Alternativo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Intantil",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Intantil",Disney Junior Alternativo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Intantil",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Intantil",Disney XD BR Alternativo
+#EXTINF:-1 tvg-logo=""group-title="Canais Intantil",Disney XD BR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Esportes",EI PLUS
 http://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Intantil",Nick Jr Alternativo
+#EXTINF:-1 tvg-logo="http://i.imgur.com/6vVmJJf.png"group-title="Canais Intantil",Nick Jr
 https://origin-02.nxplay.com.br/NICK_JR_BR_HD/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Esportes",ESPN Brasil Alternativo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Esportes",ESPN Brasil
 https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Esportes",ESPN Brasil Alternativo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Esportes",ESPN Brasil
 https://balance.cinemafacil.com/live/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais Esportes",ESPN Brasil  Alternativo
+#EXTINF:-1 tvg-logo="https://image.ibb.co/i83TTy/ESPN_Brasil.png"group-title="Canais Esportes",ESPN Brasil
 http://playplusespn-lh.akamaihd.net:80/i/pp_espnbra@374460/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais Filme",Fox Channel
 http://195.181.163.183:2200/PY-N/Fox_HD-br/index.m3u8
@@ -70,13 +70,13 @@ http://195.181.163.183:2200/PY-N/Fox_Sports_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Fox_Sports_2_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais Filme",FX HD
 http://195.181.163.183:2200/PY-N/FX_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Aberto",Globo Alternativo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Aberto",Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo Oi Alternativo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo Oi
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo Nordeste Alternativo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo Nordeste
 http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo RBS Alternativo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo RBS
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais Noticia",Globo NEws
 http://195.181.163.183:2200/PY-N/Globo_News_HD-br/index.m3u8
