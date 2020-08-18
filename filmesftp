@@ -10,6 +10,8 @@ http://195.181.163.183:2200/PY-N/AE_HD-br/index.m3u8
 http://195.181.163.183:2200/BR/babytv-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Alternativos",Bandeirantes
 http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mdQmFd/Band_News_HD.png"group-title="Canais Alternativos",Band News
+http://195.181.163.183:2200/PY-N/Band_News_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Alternativos",Band Sports HD
 http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ccMsp8/Bis.png"group-title="Canais Alternativos",BIS
@@ -182,6 +184,10 @@ http://195.181.163.183:2200/PY-N/Universal_TV_HD-br/index.m3u8
 http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",TV Ratim Bum
 http://195.181.162.87:2200/BR1/tvraetimbum-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZrJT/VH1_Mega_Hits.png"group-title="Canais BIG",VH1 Megahits
+http://195.181.163.183:2200/PY-N/VH1_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZrJT/VH1_Mega_Hits.png"group-title="Canais BIG",VH1 Megahits2
+http://195.181.163.183:2200/BR/vh1megahits-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais Alternativos",Warner
 http://195.181.163.183:2200/PY-N/Warner_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dfz6z8/ZooMoo.png"group-title="Canais Alternativos",Zoom mo Kids
@@ -198,7 +204,7 @@ http://195.181.163.183:2200/PY-N/ZooMoo_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Band
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kG2BgJ/Band_HD.png"group-title="Canais BIG",Band FHD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais BIG",Band Sports SD
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mdQmFd/Band_News_HD.png"group-title="Canais BIG",Band News
+
 
 
 #EXTINF:-1 tvg-logo=""group-title="Canais BIG",Canal Rural
@@ -316,7 +322,7 @@ http://195.181.163.183:2200/PY-N/ZooMoo_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais BIG",Universal TV
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais BIG",Universal TV HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kcOCoy/VH1_HD.png"group-title="Canais BIG",VH1
-#EXTINF:-1 tvg-logo="https://image.ibb.co/bXZrJT/VH1_Mega_Hits.png"group-title="Canais BIG",VH1 Megahits
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbF8Ty/Viva.png"group-title="Canais BIG",Viva
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais BIG",WB
