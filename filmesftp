@@ -8,6 +8,8 @@ http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Alternativos",CNN Brasil Alternativo
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Alternativos",Combate HD
+http://195.181.163.183:2200/PY-N/Combate_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Alternativos",Discovery Channel BIG
 http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Alternativos",Discovery Home Health HD
@@ -46,6 +48,8 @@ http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais Alternativos",History HD
 http://195.181.163.183:2200/PY-N/The_History_Channel_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais Alternativos",History 2
+http://195.181.163.183:2200/PY-N/History_2_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/1nFjk1t.png"group-title="Canais Alternativos",Investigação Discovery
 http://195.181.163.183:2200/PY-N/ID_-_Investi_Discovery_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Alternativos",Multishow Alternativo
@@ -68,6 +72,10 @@ https://playplusspo-lh.akamaihd.net:443/i/pp_sp@350176/index_480_av-p.m3u8
 http://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Alternativos",SBT BIG
 http://195.181.163.183:2200/PY-N/SBT_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais Alternativos",Sport HD
+http://195.181.163.183:2200/PY-N/Sportv_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais Alternativos",Sportv 2 HD
+http://195.181.163.183:2200/PY-N/Sportv_2_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais Alternativos",TNT HD
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/logo48TVAPARECIDA.png"group-title="Canais Alternativos",TV Aparecida
@@ -104,7 +112,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais BIG",Comedy Central HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bEWxNT/Curta.png"group-title="Canais BIG",Curta
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais BIG",Combate
-#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais BIG",Combate HD
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais BIG",Discovery Channel SD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais BIG",Discovery Channel HD
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais BIG",discovery Kids
@@ -130,7 +138,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais BIG",Fox Premium 1 HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais BIG",Fox Premium 2
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais BIG",Fox Premium 2 HD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports HD
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports SD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports2
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais BIG",Fox Sports2 hd
@@ -163,7 +171,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais BIG",HBO Xtreme
 #EXTINF:-1 tvg-logo="" group-title="Canais BIG",HGTV HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/0oZXoaE.png"group-title="Canais BIG",History
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jZygFd/The_History_Channel.png"group-title="Canais BIG",History 2
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ed2TyT/Lifetime.png"group-title="Canais BIG",Lifetime
 #EXTINF:-1 tvg-logo=""group-title="Canais BIG",Like Series
 #EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais BIG",Mais Globalsat
@@ -204,7 +212,7 @@ http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais BIG",Sport Center
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gJ7ivd/SporTV.png"group-title="Canais BIG",Sportv SD
-#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais BIG",Sportv 2 HD
+
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais BIG",Sportv 2
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais BIG",Studio Universal
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iGr2so/Syfy_HD.png"group-title="Canais BIG",Syfy
