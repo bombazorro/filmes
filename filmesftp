@@ -2,9 +2,9 @@
 CAnal Alternativo
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Documentarios",Animal Planet BIG
 http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais Filmes",AXN HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais Filme",AXN HD
 http://195.181.163.183:2200/BR/axnhd-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais Filmes",A&E
+#EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais Filme",A&E
 http://195.181.163.183:2200/PY-N/AE_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ks8Ovd/Baby_TV.png"group-title="Canais Intantil",BabyTV
 http://195.181.163.183:2200/BR/babytv-br/index.m3u8
@@ -20,7 +20,7 @@ http://195.181.163.183:2200/PY-N/Band_Sports_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/BIS_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/dfRrag8.png"group-title="Canais Intantil",Boomerang
 http://195.181.163.183:2200/PY-N/Boomerang_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Filmes",Canal Sony
+#EXTINF:-1 tvg-logo=""group-title="Canais Filme",Canal Sony
 http://195.181.163.183:2200/PY-N/Canal_Sony_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Intantil",Cartoon Network
 http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
