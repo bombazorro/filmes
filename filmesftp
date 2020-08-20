@@ -28,6 +28,8 @@ http://195.181.163.183:2200/PY-N/Cartoon_HD-br/index.m3u8
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Esportes",Combate HD
 http://195.181.163.183:2200/PY-N/Combate_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Documentarios",Comedy Central HD
+https://rcstream.belugacdn.link/hls1/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Documentarios",Discovery Channel BIG
 http://195.181.163.183:2200/PY-N/Discovery_Channel_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health HD
@@ -184,7 +186,7 @@ http://195.181.163.183:2200/PY-N/Telecine_Premium_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Telecine_Touch_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bOd1gJ/TBS_HD.png"group-title="Canais Filme",TBS
 http://195.181.163.183:2200/PY-N/TBS_HD-br/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais Filme",TNT HD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TNT.png"group-title="Canais Filme",TNT HD
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fKYHMJ/TLC.png"group-title="Canais Filme",TNT HD megafilmes
 https://rcstream.belugacdn.link/hls1/tnt.m3u8
