@@ -126,6 +126,8 @@ http://195.181.163.183:2200/PY-N/OFF_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/Paramount_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais Esportes",Premiere Clubes HD
 http://195.181.163.183:2200/PY-N/Premiere_Clubes_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yCoy/Premiere_Clubes.png"group-title="Canais Esportes",Premiere Clubes HD Megafilmes
+https://rcstream.belugacdn.link/hls1/premiereclubes.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_2.png"group-title="Canais Esportes",Premiere 2 HD
 http://195.181.163.183:2200/PY-N/Premiere_2_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/itUwFd/Premiere_3.png"group-title="Canais Esportes",Premiere 3 HD
