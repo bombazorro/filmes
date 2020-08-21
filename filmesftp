@@ -190,8 +190,6 @@ http://195.181.163.183:2200/PY-N/TBS_HD-br/index.m3u8
 http://195.181.163.183:2200/PY-N/TNT_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://megafilmeshd50.top/wp-content/uploads/2018/04/fim-7.png"group-title="Canais Filme",TNT MegafilmesHD50
 https://rcstream.belugacdn.link/a/hls1/tnt.m3u8?expires=1598058583&token=75b09ecba7b5b101571a2dcfe24dc705
-#EXTINF:-1 tvg-logo="https://megafilmeshd50.top/wp-content/uploads/2018/04/fim-7.png"group-title="Canais Filme",TNT HD megafilmes
-https://rcstream.belugacdn.link/hls1/tnt.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b6hoTy/TNT_S_ries.png"group-title="Canais Filme",TNT Series HD
 http://195.181.163.183:2200/PY-N/TNT_Series_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ks0WgJ/Tooncast.png"group-title="Canais Intantil",Tooncast
