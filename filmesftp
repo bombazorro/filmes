@@ -80,6 +80,10 @@ https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1
 http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo RBS
 http://195.181.163.183:2200/PY-N/RBS_TV_HD_Porto_Alegre-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo Bahia
+http://195.181.163.183:2200/PY-N/TV_Bahia_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/82585_globo-largura.jpg" group-title="Canais Aberto", Globo Nordeste
+http://195.181.163.183:2200/PY-N/Globo_Nordeste_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais Noticia",Globo NEws
 http://195.181.163.183:2200/PY-N/Globo_News_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais Intantil",Gloob HD
