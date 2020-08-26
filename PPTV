@@ -72,9 +72,9 @@ http://23.237.78.82:30010/streams/102_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Documentarios",Discovery Channel HD
 http://23.237.78.82:30010/streams/103_.m3u8
 
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",discovery Kids
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids
 http://23.237.78.82:30010/streams/134_.m3u8
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",discovery Kids HD
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids HD
 http://23.237.78.82:30010/streams/137_.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health
@@ -87,7 +87,7 @@ http://23.237.78.82:30010/streams/121_.m3u8
 http://23.237.78.82:30010/streams/104_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais Documentarios",discovery Teather HD
 http://23.237.78.82:30010/streams/105_.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais",Discovery Turbo
+#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Esportes",Discovery Turbo
 http://23.237.78.82:30010/streams/106_.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Esportes",Discovery Turbo HD
 http://23.237.78.82:30010/streams/107_.m3u8
