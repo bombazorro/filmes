@@ -108,6 +108,8 @@ http://195.181.163.183:2200/PY-N/ID_-_Investi_Discovery_HD/index.m3u8
 http://195.181.163.183:2200/PY-N/Megapix_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Musicais",MTV
 http://195.181.163.183:2200/PY-N/MTV_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Musicais",MTV HD
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Musicais",Multishow BIG
 http://195.181.163.183:2200/PY-N/Multishow_HD-br/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Musicais",Multishow
