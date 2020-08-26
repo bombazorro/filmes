@@ -213,7 +213,7 @@ http://23.237.78.82:30010/streams/182_.m3u8
 http://23.237.78.82:30010/streams/141_.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Musicais",MTV
 http://23.237.78.82:30010/streams/142_.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Variedade",Multishow
+#EXTINF:-1 tvg-logo="https://image.ibb.co/dURMgJ/Multishow.png"group-title="Canais Variedades",Multishow
 http://23.237.78.82:30010/streams/143_.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4TugLsj.png"group-title="Canais Musicais",Music
 http://23.237.78.82:30010/streams/144_.m3u8
