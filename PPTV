@@ -1,24 +1,17 @@
 CANAIS PPTV
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b3MXoy/AMC.png"group-title="Canais Variedades",AMC
 http://ts.ec.cx:8080/a/hls1/amc.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/b3MXoy/AMC.png"group-title="Canais Variedades",AMC HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais Filmes",AXN HD
 http://ts.ec.cx:8080/a/hls1/axn.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais Filmes",AXN SD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais Variedades",A&E
 http://ts.ec.cx:8080/a/hls1/aie.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Documentarios",Animal Planet
-http://ts.ec.cx:8080/a/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Documentarios",Animal Planet HD
+http://ts.ec.cx:8080/a/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ivPk8y/Arte1.png"group-title="Canais Variedades",Arte 1 HD
 http://ts.ec.cx:8080/a/hls1/arte1.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ks8Ovd/Baby_TV.png"group-title="Canais Infantis",BabyTV
-http://ts.ec.cx:8080/a/hls1/babytv.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Abertos",Bandeirantes
 http://ts.ec.cx:8080/a/hls1/band.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Abertos",Band
-#EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Abertos",Band
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kG2BgJ/Band_HD.png"group-title="Canais Abertos",Band FHD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Esportes",Band Sports HD
 http://ts.ec.cx:8080/a/hls1/bandsports.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Esportes",Band Sports SD
@@ -34,46 +27,41 @@ http://ts.ec.cx:8080/a/hls1/boomerang.m3u8
 http://ts.ec.cx:8080/a/hls1/canale.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Infantis",Cartoon Network
 http://ts.ec.cx:8080/a/hls1/cartoon.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/S5PsDDR.png"group-title="Canais Infantis",Cartoon Networ
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gdyOvd/Cinemax.png"group-title="Canais Filmes",Cinemax
 http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/gdyOvd/Cinemax.png"group-title="Canais Filmes",Cinemax SD
 #EXTINF:-1 tvg-logo=""group-title="Canais Filmes",Cine Sky1 capitao cueca
 #EXTINF:-1 tvg-logo=""group-title="Canais Noticias",CNN Brasil
 http://ts.ec.cx:8080/a/hls1/cnnbrasil.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais Variedades",Comedy Central SD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais Variedades",Comedy Central HD
 http://ts.ec.cx:8080/a/hls1/comedycentral.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bEWxNT/Curta.png"group-title="Canais Variedades",Curta
-#EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Esportes",Combate
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Esportes",Combate HD
 http://ts.ec.cx:8080/a/hls1/combate.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Documentarios",Discovery Channel SD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Documentarios",Discovery Channel HD
 http://ts.ec.cx:8080/a/hls1/discovery.m3u8
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids HD
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mvGtvd/Discovery_Science.png"group-title="Canais Documentarios",Discovery Science
 http://ts.ec.cx:8080/a/hls1/discoveryscience.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais Documentarios",discovery Teather SD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais Documentarios",discovery Teather HD
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Esportes",Discovery Turbo
+
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/br_discovery-turbo-brazil_m.png"group-title="Canais Esportes",Discovery Turbo HD
 http://ts.ec.cx:8080/a/hls1/discoveryturbo.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais Documentarios",discovery World HD
+http://ts.ec.cx:8080/a/hls1/discoveryworld.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Infantis",Disney Channel HD
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Infantis",Disney Junior
 http://ts.ec.cx:8080/a/hls1/disneyjunior.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais Infantis",Disney xd
 http://ts.ec.cx:8080/a/hls1/disneyxd.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fGq8Ty/E_Entertainment.png"group-title="Canais Variedades",E!
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Esportes",ESPN
 #EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais Esportes",ESPN HD
 http://ts.ec.cx:8080/a/hls1/espn.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais Esportes",ESPN FHD
+#EXTINF:-1 tvg-logo="https://image.ibb.co/geB41J/ESPN_HD.png"group-title="Canais Esportes",ESPN HD
+http://ts.ec.cx:8080/a/hls1/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ksdhso/ESPN.png"group-title="Canais Esportes",ESPN Extra
+http://ts.ec.cx:8080/a/hls1/espnextra.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fxYv8y/Fish_TV.png"group-title="Canais Esportes",Fish HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/c5ghoy/Food_Network_HD.png"group-title="Canais Variedades",Food HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dOccMJ/Fox_HD.png"group-title="Canais Filmes",Fox Channel
@@ -81,49 +69,40 @@ http://ts.ec.cx:8080/a/hls1/espn.m3u8
 http://ts.ec.cx:8080/a/hls1/fox.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fMzWxJ/Fox_Life_HD.png"group-title="Canais Variedades",Fox Life
 http://ts.ec.cx:8080/a/hls1/foxlife.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais Filmes",Fox Premium 1
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eSX0ad/Fox_Premium_1.png"group-title="Canais Filmes",Fox Premium 1 HD
 http://ts.ec.cx:8080/a/hls1/foxpremium1.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais Filmes",Fox Premium 2
 #EXTINF:-1 tvg-logo="https://image.ibb.co/f7yj1J/Fox_Premium_2.png"group-title="Canais Filmes",Fox Premium 2 HD
 #EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Esportes",Fox Sports HD
 http://ts.ec.cx:8080/a/hls1/foxsports1.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Esportes",Fox Sports SD
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Esportes",Fox Sports2
-#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Esportes",Fox Sports2 hd
+#EXTINF:-1 tvg-logo="http://i.imgur.com/bYUGfOo.png"group-title="Canais Esportes",Fox Sports2 HD
 http://ts.ec.cx:8080/a/hls1/foxsports2.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais Filmes",FX HD
 http://ts.ec.cx:8080/a/hls1/fx.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dvqxMJ/FX_HD.png"group-title="Canais Filmes",FX SD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/h2wtvd/Gazeta.png"group-title="Canais Abertos",Gazeta
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais Infantis",Gloob SD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jPP5Co/Gloob.png"group-title="Canais Infantis",Gloob HD
 http://ts.ec.cx:8080/a/hls1/gloob.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo HD
-#EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais Noticias",Globo NEws
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo RJ HD
+http://ts.ec.cx:8080/a/hls1/boborj.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/hfD6Fd/Globo_News_HD.png"group-title="Canais Noticias",Globo News
+http://ts.ec.cx:8080/a/hls1/globonews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo RBS RS
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo Vanguarda
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo Vanguarda HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo SP
+http://ts.ec.cx:8080/a/hls1/bobosp.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo Internacional
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png"group-title="Canais Variedades",GNT HD
 http://ts.ec.cx:8080/a/hls1/gnt.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais Filmes",HBO
 http://ts.ec.cx:8080/a/hls1/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais Filmes",HBO 2
-#EXTINF:-1 tvg-logo="https://image.ibb.co/jHrF8y/HBO_2_HD.png"group-title="Canais Filmes",HBO 2
 http://ts.ec.cx:8080/a/hls1/hbo2.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dtN0ad/HBO_Family_HD.png"group-title="Canais Filmes",HBO Family
 http://ts.ec.cx:8080/a/hls1/hbofamily.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais Variedades",HBO Mundi
 #EXTINF:-1 tvg-logo="https://image.ibb.co/g72Noy/HBO_HD.png"group-title="Canais Variedades",HBO Mundi HD
 http://ts.ec.cx:8080/a/hls1/hbomundi.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais Filmes",HBO POP
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais Filmes",HBO POP HD
 http://ts.ec.cx:8080/a/hls1/hbopop.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/m9jDvd/HBO_Plus_HD.png" group-title="Canais Filmes",HBO PLUS
 http://ts.ec.cx:8080/a/hls1/hboplus.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais Filmes",HBO Signature
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kdmtvd/HBO_Signature_HD.png" group-title="Canais Filmes",HBO Signature HD
 http://ts.ec.cx:8080/a/hls1/hbosignature.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/htzJTy/HBO.png"group-title="Canais Filmes",HBO Xtreme
@@ -140,7 +119,6 @@ http://ts.ec.cx:8080/a/hls1/investigacaodiscovery.m3u8
 http://ts.ec.cx:8080/a/hls1/lifetime.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Variedades",Like Series
 #EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais Variedades",Mais Globalsat
-#EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais Filmes",Megapix
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais Filmes",Megapix HD
 http://ts.ec.cx:8080/a/hls1/megapix.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Musicais",MTV
@@ -176,6 +154,8 @@ http://ts.ec.cx:8080/a/hls1/premiere6.m3u8
 http://ts.ec.cx:8080/a/hls1/premiere7.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Abertos",Record HD
 http://ts.ec.cx:8080/a/hls1/recordsp.m3u8
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Abertos",Record News HD
+http://ts.ec.cx:8080/a/hls1/recordnews.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Abertos",Redetv HD
 http://ts.ec.cx:8080/a/hls1/redetv.m3u8
 #EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo.png"group-title="Canais Abertos",Rede Vida HD
@@ -222,13 +202,13 @@ http://ts.ec.cx:8080/a/hls1/tooncast.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Variedades",TV Brasil Animada
 #EXTINF:-1 tvg-logo="http://i.imgur.com/kai6F2R.pn"group-title="Canais Abertos",TV Cultura
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/43185_gazeta-largura.jpg"group-title="Canais Abertos",TV Gazeta
-#EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais Filmes",Universal TV
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dk7cMJ/Studio_Universal_HD.png"group-title="Canais Filmes",Universal TV HD
+http://ts.ec.cx:8080/a/hls1/universal.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kcOCoy/VH1_HD.png"group-title="Canais Musicais",VH1
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bXZrJT/VH1_Mega_Hits.png"group-title="Canais Musicais",VH1 Megahits
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbF8Ty/Viva.png"group-title="Canais Variedades",Viva
+http://ts.ec.cx:8080/a/hls1/viva.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais Filmes",Warner
-#EXTINF:-1 tvg-logo="https://image.ibb.co/kTVLad/Warner_Channel.png"group-title="Canais Filmes",WB
+http://ts.ec.cx:8080/a/hls1/warner.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Esportes",whowhoo
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dfz6z8/ZooMoo.png"group-title="Canais Infantis",Zoom mo Kids
-
