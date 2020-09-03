@@ -41,6 +41,7 @@ http://ts.ec.cx:8080/a/hls1/combate.m3u8
 http://ts.ec.cx:8080/a/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids HD
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health HD
+http://ts.ec.cx:8080/a/hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mvGtvd/Discovery_Science.png"group-title="Canais Documentarios",Discovery Science
 http://ts.ec.cx:8080/a/hls1/discoveryscience.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/jUrhoy/Discovery_Theater.png"group-title="Canais Documentarios",discovery Teather HD
@@ -117,6 +118,7 @@ http://ts.ec.cx:8080/a/hls1/investigacaodiscovery.m3u8
 http://ts.ec.cx:8080/a/hls1/lifetime.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Variedades",Like Series
 #EXTINF:-1 tvg-logo="https://image.ibb.co/k88dTy/Globosat.png"group-title="Canais Variedades",Mais Globalsat
+http://ts.ec.cx:8080/a/hls1/maisbobosat.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bCaWgJ/Megapix_HD.png"group-title="Canais Filmes",Megapix HD
 http://ts.ec.cx:8080/a/hls1/megapix.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hkvWgJ/MTV_HD.png"group-title="Canais Musicais",MTV
