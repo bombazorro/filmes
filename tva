@@ -1,31 +1,21 @@
 #EXTM3U
 #EXTM3U
 #EXTINF:-1,A&E HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/2
-#EXTINF:-1,A&E SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/1
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://195.181.163.183:2200/PY-N/AE_HD-br/index.m3u8
 #EXTINF:-1,AMC HD
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/5
-#EXTINF:-1,AMC SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/4
 #EXTINF:-1,Animal Planet HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/9
-#EXTINF:-1,Animal Planet SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/8
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/index.m3u8
 #EXTINF:-1,Arte 1 HD
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/11
-#EXTINF:-1,Arte 1 SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/10
 #EXTINF:-1,AXN HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/13
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://195.181.163.183:2200/BR/axnhd-br/index.m3u8
 #EXTINF:-1,AXN SD
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/12
 #EXTINF:-1,BabyTV HD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/18
-#EXTINF:-1,BabyTV SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/17
-#EXTINF:-1,Band Campinas SD
-plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/20
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://195.181.163.183:2200/BR/babytv-br/index.m3u8
+#EXTINF:-1,Band
+plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
 #EXTINF:-1,Band News HD
 plugin://plugin.video.f4mTester/?name=ON FIRE TV&streamtype=TSDOWNLOADER&amp;url=http://rtrmsrv22.gq:80/julio-restream/b1NFEMLEdR/26
 #EXTINF:-1,Band News SD
