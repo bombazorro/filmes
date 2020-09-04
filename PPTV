@@ -34,6 +34,8 @@ http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 http://ts.ec.cx:8080/a/hls1/cnnbrasil.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais Variedades",Comedy Central HD
 http://ts.ec.cx:8080/a/hls1/comedycentral.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais Variedades",Comedy Central HD 2
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fddns.officepre.tk%3A80%2Fantonio20%2Fantonio20%2F1653&swf=None&auth=&simpledownloader=False
 #EXTINF:-1 tvg-logo="https://image.ibb.co/bEWxNT/Curta.png"group-title="Canais Variedades",Curta
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iFbXoy/Combate.png"group-title="Canais Esportes",Combate HD
 http://ts.ec.cx:8080/a/hls1/combate.m3u8
