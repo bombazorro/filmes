@@ -40,6 +40,7 @@ http://ts.ec.cx:8080/a/hls1/combate.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tUTV4Kl.png"group-title="Canais Documentarios",Discovery Channel HD
 http://ts.ec.cx:8080/a/hls1/discovery.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/69345_discoverykids-altura.jpg"group-title="Canais Infantis",Discovery Kids HD
+http://ts.ec.cx:8080/a/hls1/discoverykids.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hbwhoy/Discovery_Home_amp_Health.png"group-title="Canais Documentarios",Discovery Home Health HD
 http://ts.ec.cx:8080/a/hls1/discoveryhomeihealth.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mvGtvd/Discovery_Science.png"group-title="Canais Documentarios",Discovery Science
@@ -170,6 +171,8 @@ http://ts.ec.cx:8080/a/hls1/sportv1.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Esportes",Sport Center
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais Esportes",Sportv 2 HD
 http://ts.ec.cx:8080/a/hls1/sportv2.m3u8
+#EXTINF:-1 tvg-logo="https://image.ibb.co/mAnivd/SporTV_2.png"group-title="Canais Esportes",Sportv 3 HD
+http://ts.ec.cx:8080/a/hls1/sportv3.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/hDuk8y/Studio_Universal.png"group-title="Canais Filmes",Studio Universal
 http://ts.ec.cx:8080/a/hls1/studiouniversal.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iGr2so/Syfy_HD.png"group-title="Canais Filmes",Syfy
