@@ -51,11 +51,11 @@ http://ts.ec.cx:8080/a/hls1/DiscoveryTheater.m3u8
 http://ts.ec.cx:8080/a/hls1/discoveryturbo.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/etCoTy/Discovery_World.png"group-title="Canais Documentarios",discovery World HD
 http://ts.ec.cx:8080/a/hls1/discoveryworld.m3u8
-#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Intantil",Disney Channel
+#EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Infantis",Disney Channel
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ca5mFd/Disney_Channel.png"group-title="Canais Infantis",Disney Channel HD
 http://ts.ec.cx:8080/a/hls1/disney.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Intantil",Disney Junior
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Infantis",Disney Junior
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HNCqSdX.png"group-title="Canais Infantis",Disney Junior
 http://ts.ec.cx:8080/a/hls1/disneyjunior.m3u8
@@ -63,7 +63,7 @@ http://ts.ec.cx:8080/a/hls1/disneyjunior.m3u8
 http://ts.ec.cx:8080/a/hls1/disneyxd.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais Infantis",Disney xd HD
 https://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-b.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Canais Intantil",Disney XD BR
+#EXTINF:-1 tvg-logo="http://i.imgur.com/zNNIALN.png"group-title="Canais Infantis",Disney XD BR
 http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/EiPlus_logo-baixa.png"group-title="Canais Esportes",EI PLUS
 http://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/master.m3u8
