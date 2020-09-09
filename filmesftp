@@ -1,17 +1,17 @@
 #EXTM3U
 CAnal Alternativo
-#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Documentarios",Animal Planet BIG
-http://195.181.163.183:2200/PY-N/Animal_Planet_HD-br/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.imgur.com/J1oK0xW.png"group-title="Canais Documentarios",Animal Planet
+http://ts.ec.cx:8080/a/hls1/animalplanet.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ddGyTy/AXN.png"group-title="Canais Filme",AXN HD
-http://195.181.163.183:2200/BR/axnhd-br/index.m3u8
+http://ts.ec.cx:8080/a/hls1/axn.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/eeaxMJ/A_amp_E_HD.png"group-title="Canais Filme",A&E
-http://195.181.163.183:2200/PY-N/AE_HD-br/index.m3u8
+http://ts.ec.cx:8080/a/hls1/aie.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/ks8Ovd/Baby_TV.png"group-title="Canais Intantil",BabyTV
 http://195.181.163.183:2200/BR/babytv-br/index.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Aberto",Bandeirantes
-http://195.181.163.183:2200/PY-N/Band_HD-br/index.m3u8
+http://ts.ec.cx:8080/a/hls1/band.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mdQmFd/Band_News_HD.png"group-title="Canais Noticia",Band News
-http://195.181.163.183:2200/PY-N/Band_News_HD-br/index.m3u8
+http://ts.ec.cx:8080/a/hls1/bandnews.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/mdQmFd/Band_News_HD.png"group-title="Canais Noticia",Band News2
 https://evpp.mm.uol.com.br:443/geob_band/bandnewstv/chunklist_w716639383.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/6xouXln.png"group-title="Canais Esportes",Band Sports HD
