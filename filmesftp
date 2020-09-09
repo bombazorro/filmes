@@ -30,7 +30,7 @@ http://ts.ec.cx:8080/a/hls1/cinemax.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Filmes",Cine Sky1 capitao cueca
 #EXTINF:-1 tvg-logo=""group-title="Canais Noticias",CNN Brasil
 http://ts.ec.cx:8080/a/hls1/cnnbrasil.m3u8
-#EXTINF:-1 tvg-logo="https://img.estadao.com.br/thumbs/640/resources/jpg/1/7/1570645877671.jpg"group-title="Canais Noticia",CNN Brasil
+#EXTINF:-1 tvg-logo="https://img.estadao.com.br/thumbs/640/resources/jpg/1/7/1570645877671.jpg"group-title="Canais NoticiaS",CNN Brasil
 https://streaming.cnnbrasil.com.br/cnndigital_main.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/iotHMJ/Comedy_Central_HD.png"group-title="Canais Variedades",Comedy Central HD
 http://ts.ec.cx:8080/a/hls1/comedycentral.m3u8
@@ -107,9 +107,9 @@ http://ts.ec.cx:8080/a/hls1/boborj.m3u8
 http://ts.ec.cx:8080/a/hls1/globonews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo SP
 http://ts.ec.cx:8080/a/hls1/bobosp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Aberto",Globo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png"group-title="Canais Abertos",Globo
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Aberto", Globo Oi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rRftyEP.png" group-title="Canais Abertos", Globo Oi
 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2126/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/fq31JT/GNT.png"group-title="Canais Variedades",GNT HD
 http://ts.ec.cx:8080/a/hls1/gnt.m3u8
@@ -185,20 +185,20 @@ http://ts.ec.cx:8080/a/hls1/premiere7.m3u8
 http://ts.ec.cx:8080/a/hls1/recordsp.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Abertos",Record News HD
 http://ts.ec.cx:8080/a/hls1/recordnews.m3u8
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Noticia",Record News
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais NoticiaS",Record News
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_720_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Abertos",Redetv HD
 http://ts.ec.cx:8080/a/hls1/redetv.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Aberto",Redetv
+#EXTINF:-1 tvg-logo="http://i.imgur.com/jJBUZ6O.png"group-title="Canais Abertos",Redetv
 https://redetv01-lh.akamaihd.net/i/redetv01_1@1010585/index_360_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.redevida.com.br/assets/img/logotipo.png"group-title="Canais Abertos",Rede Vida HD
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Aberto",Record
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Abertos",Record
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Aberto",Rede Record
+#EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/66319_recordtv-largura.jpg"group-title="Canais Abertos",Rede Record
 https://playplusspo-lh.akamaihd.net:443/i/pp_sp@350176/index_480_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://207.180.238.75/bigtv2/images/90618_sbt-largura.jpg"group-title="Canais Abertos",SBT
 http://ts.ec.cx:8080/a/hls1/sbt.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Aberto",SBT
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_sbt_m.png"group-title="Canais Abertos",SBT
 http://fonteangelusiptv.com:25461/live/2792715379ANTONIO/FTGD49/92642.m3u8
 #EXTINF:-1 tvg-logo="https://image.ibb.co/c15Q8y/Sony.png"group-title="Canais Filmes",Sony
 http://ts.ec.cx:8080/a/hls1/sony.m3u8
