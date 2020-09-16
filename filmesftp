@@ -255,6 +255,49 @@ http://ts.ec.cx:8080/a/hls1/warner.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Canais Esportes",whowhoo
 #EXTINF:-1 tvg-logo="https://image.ibb.co/dfz6z8/ZooMoo.png"group-title="Canais Infantis",Zoom mo Kids
 
+#EXTM3U
+
+#EXTINF:-1,    
+#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/tv_pai_eterno_.jpg"group-title="Canais Religiosos",Pai Eterno FHD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72213
+#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/tv_pai_eterno_.jpg"group-title="Canais Religiosos",Pai Eterno FHD [H265]
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72216
+#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/tv_pai_eterno_.jpg"group-title="Canais Religiosos",Pai Eterno HD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72214
+#EXTINF:-1 tvg-logo="https://www.paieterno.com.br/wp-content/uploads/2019/05/tv_pai_eterno_.jpg"group-title="Canais Religiosos",Pai Eterno SD0
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72215
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Canais Religiosos",#EXTINF:-1,Rede Vida FHD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72293
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Canais Religiosos",Rede Vida FHD [H265]
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72294
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Canais Religiosos",Rede Vida HD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72295
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Canais Religiosos",Rede Vida SD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida FHD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72394
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida FHD [H265]
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72395
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida HD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72396
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida SD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72397
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png"group-title="Canais Religiosos",TV Cancao Nova SD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72404
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png"group-title="Canais Religiosos",TV Evangelizar SD 
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72628
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Canais Religiosos",TV Novo Tempo FHD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72408
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Canais Religiosos",TV Novo Tempo FHD [H265]
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72409
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Canais Religiosos",TV Novo Tempo HD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72410
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Canais Religiosos",TV Novo Tempo SD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/72411
+#EXTINF:-1 tvg-logo="https://www.boavontade.com/sites/all/themes/boavontade_ptbr/tv/img/logo-bvtv.png"group-title="Canais Religiosos",,Boa Vontade TV SD
+http://srvx.io:80/SAYGdw0Agj/fireurl.co/71811
+
+
 FILMES
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/4LoAENMI7Qk/maxresdefault.jpg"group-title="Filme",365 dias com ela
 http://fly.cupefly.club/bucket/365dias.mp4
