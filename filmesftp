@@ -274,6 +274,8 @@ http://srvx.io:80/SAYGdw0Agj/fireurl.co/72294
 http://srvx.io:80/SAYGdw0Agj/fireurl.co/72295
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="Canais Religiosos",Rede Vida SD
 http://srvx.io:80/SAYGdw0Agj/fireurl.co/72296
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida Alternativo
+http://rtrmsrv22.gq:80/live/olimpia1/123456/717115.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida FHD
 http://srvx.io:80/SAYGdw0Agj/fireurl.co/72394
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png"group-title="Canais Religiosos",TV Aparecida FHD [H265]
@@ -294,6 +296,8 @@ http://srvx.io:80/SAYGdw0Agj/fireurl.co/72409
 http://srvx.io:80/SAYGdw0Agj/fireurl.co/72410
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png"group-title="Canais Religiosos",TV Novo Tempo SD
 http://srvx.io:80/SAYGdw0Agj/fireurl.co/72411
+#EXTINF:-1 tvg-logo="http://img.rtrmsrv22.gq/images/logos/seculo21.png"group-title="Canais Religiosos",TV Século 21
+http://rtrmsrv22.gq:80/live/olimpia1/123456/755662.ts
 #EXTINF:-1 tvg-logo="https://www.boavontade.com/sites/all/themes/boavontade_ptbr/tv/img/logo-bvtv.png"group-title="Canais Religiosos",,Boa Vontade TV SD
 http://srvx.io:80/SAYGdw0Agj/fireurl.co/71811
 
