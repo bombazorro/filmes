@@ -700,7 +700,7 @@ http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/14578
 http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/1165136
 #EXTINF:-1  group-title="XXX" tvg-logo="http://logocanais.ddns.net/Logo/sextreme1.png",Sextreme
 http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/1165137
-#EXTINF:-1 tvg-id="" tvg-name="Venus TV Adult" tvg-logo="" group-title="XXX",Venus HD
+#EXTINF:-1 tvg-id="" tvg-name="Venus TV Adult" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png" group-title="XXX",Venus HD
 http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/14571
 #EXTINF:-1  group-title="XXX" tvg-logo="http://logocanais.ddns.net/Logo/venus1.png",Venus
 http://star-flix.net:8080/jhonnylive/t9EUWKdAhh/1165138
