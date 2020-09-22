@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Pennyworth S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEQAIEQAMp5tJV0D5j1T5f688Ot.jpg" group-title="Serie ∤ Pennyworth",Pennyworth S01 E06
+http://grtsvk.life:8080/series/69yo7upiv/mx7oghoon/29545.mkv
 #EXTINF:-1 tvg-logo="https://image.ibb.co/b3MXoy/AMC.png"group-title="Canais Variedades",AMC
 http://ts.ec.cx:8080/a/hls1/amc.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/A_Fazenda_12.jpg"group-title="Canais Variedades",A Fazenda
